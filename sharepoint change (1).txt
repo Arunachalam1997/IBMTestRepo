@@ -1,0 +1,2646 @@
+Username : arunachalam.rd
+
+Password : a*3PxC9?Cm6W
+
+         IP : 192.168.2.96 SP UAT | 
+
+         IP : 192.168.2.97 SQL
+
+Jai@1897
+https://ap-east-1.console.aws.amazon.com/ec2/home?region=ap-east-1#Instances:
+https://ap-east-1.console.aws.amazon.com/ec2/home?region=ap-east-1#Instances:
+https://us-east-1.console.aws.amazon.com/billing/home?paymentInvoiceId=1654475757#/complete-payment
+
+Pirple = 14:00
+ERC -> RCE
+Jaisankar@1897
+Draggable PlotLine Graph - https://jsfiddle.net/48awM/30/
+
+
+https://github.com/romeojeremiah/javascript-projects-for-beginners
+https://github.com/swapnilsparsh/30DaysOfJavaScript?tab=readme-ov-file
+sp-appBar ----------------------------------
+https://www.guvi.com/courses/?current_tab=myCourses
+https://www.mygreatlearning.com/academy/search?keyword=Javascript
+https://www.coursera.org/professional-certificates/meta-front-end-developer#courses
+https://olympus.mygreatlearning.com/courses/47896
+https://dcoacademy.online/
+https://www.coursera.org/specializations/data-structures-algorithms#courses
+https://knowledgeup.co.in/
+https://pirple.com
+https://www.scaler.com/topics/course/dsa-interviews-java/
+https://lms.simplilearn.com/dashboard
+https://www.kgcoding.in/
+https://data-flair.training/courses/free-java-course/lessons/1-2-java-software-required/
+
+I’m happy to share that I’ve obtained a new certification: JavaScript Certification Test from KGCoding by Prashant Sir!
+
+
+SP-----------------------------------
+https://in.indeed.com/career-advice/interviewing/spfx-interview-questions
+https://www.techrobbers.com/2022/08/spfx-interview-questions-with-answers.html
+
+
+https://gszho.sharepoint.com/sites/ShortPoint_Playground_ae3918
+
+Site Setting - https://gszho.sharepoint.com/sites/appcatalog/_layouts/15/settings.aspx
+
+App Catalog - https://gszho.sharepoint.com/sites/appcatalog/AppCatalog/Forms/AllItems.aspx
+
+Username: sponline@gs.zho.ae
+
+Password: zho@2024
+-----------------------------------
+Portal Website - https://portal.zho.gov.ae/ 
+Username : rapid.data
+password : Ult!m@t3
+
+
+
+"🚀 Elevate your coding game with Scaler's JavaScript Course! 💻 Unlock the full potential of JavaScript and propel your career forward. Join the ranks of empowered developers today! #JavaScript #Coding #TechEducation #CareerGrowth"
+
+
+
+https://gszho.sharepoint.com/sites/ShortPoint_Playground_ae3918/Shared Documents/Images/Saeed.png
+https://gszho.sharepoint.com/sites/ShortPoint_Playground_ae3918/Shared Documents/Images/hrmslogo.svg
+https://gszho.sharepoint.com/sites/ShortPoint_Playground_ae3918/Shared Documents/Images/zajel.svg
+https://gszho.sharepoint.com/sites/ShortPoint_Playground_ae3918/Shared Documents/Images/contact-center.svg
+https://gszho.sharepoint.com/sites/ShortPoint_Playground_ae3918/Shared Documents/Images/EmployeeDirectory.svg
+https://gszho.sharepoint.com/sites/ShortPoint_Playground_ae3918/Shared Documents/Images/TrendingDocuments.svg
+
+
+main-headings
+
+
+https://support.shortpoint.com/support/solutions/1000131329
+
+
+Base64 Image encode - https://www.base64-image.de/
+
+https://rapiddatatech1.sharepoint.com/sites/ShortPoint_Playground_a6768/_layouts/15/viewlsts.aspx?view=14
+
+https://login.amaf.ae/_api/web/lists/GetByTitle('News Section')/items?$filter=(Channel eq 'Web Application' or Channel eq 'Internally')
+
+http://amaf-spweb-01/sites/Apps/AppCatalog/Forms/AllItems.aspx
+http://amaf-spweb-01:55555/default.aspx
+
+
+import { BaseApplicationCustomizer, IRenderWebPart } from '@microsoft/sp-application-base';
+
+export default class MyApplicationCustomizer extends BaseApplicationCustomizer<MyApplicationCustomizerProperties> implements IRenderWebPart {
+
+  private renderedOnce = false;
+
+  @override
+  public onInit(): Promise<void> {
+    if (!this.renderedOnce) {
+      const loaderDiv = document.createElement("div");
+      loaderDiv.className = "amaf-loading";
+      document.body.appendChild(loaderDiv);
+      this.renderedOnce = true;
+    }
+
+    return super.onInit();
+  }
+
+
+
+hieght : 100  =>  90px
+padding 20px 0 0 0 =>  20px 0 20px 0
+
+
+top-megamenu
+
+
+
+
+A building composed of a commercial ground floor (2 shops), and two identical floors (mezzanine and first floors) composed of residential studios (4 studios in each floor, total of 8 studios in the building as a whole)
+
+
+The land plot no. (113-423) was allocated in Al Dhagaya region, stretching over an area of 2,512 square feet to develop a  building on 7,500 square-foot plot. The project’s cost is valued at AED 3,780,000, with a 7.2% return on investment, which is equivalent to AED 320,000 per year.
+
+تم تخصيص قطعة الأرض رقم (423-113) - بمنطقة الضغاية، على مساحة 2,512 قدماً مربعاً لإنشاء مبنى تبلغ مساحته الإجمالية 7,500 قدم مربع. وكان المشروع قد انطلق في مطلع مايو 2021، ومن المتوقع إنجازه في مطلع يوليو 2023. وتبلغ كلفة إنشاء المشروع 3,780,000 درهم، وستصل نسبة العائد على الاستثمار 7.2%، أي ما يعادل 320,000 درهم سنوياً.
+
+
+
+/KunoozLibrary/Forms/AllItems.aspx
+
+Before Production deployment check - News Section
+
+https://rapiddatatech1.sharepoint.com/sites/ShortPoint_Playground_a6768/CustomLibrarys/BootstrapAndJS/Styles.css
+
+https://learn.microsoft.com/en-us/answers/questions/1156935/how-to-fetch-sharepoint-list-data-into-any-third-p
+
+
+InBuildComponents - https://codepen.io/search/pens?q=cards+slider+&cursor=ZD0xJm89MCZwPTEy
+
+https://www.perplexity.ai/
+
+
+AdminHome - https://rapiddatatech1-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/classicFeatures
+
+161371599
+https://react-slick.neostack.com/
+
+
+https://tracker.rapiddatatech.com/issues/17242 _ Searchdeploy
+
+
+Bug #17161  - check with riyaz
+
+https://tracker.rapiddatatech.com/issues/17242 - Doc Title
+https://tracker.rapiddatatech.com/issues/17107 - Percentage arabic
+-------------------------
+
+GET https://your-sharepoint-site/_api/web/lists/getByTitle('Tasks')/items?$filter=Status eq 'In Progress'
+
+--------------------
+<div className="progress-container" data-percentage={temp.length > 0 ? apipercentage : progress}>
+                              {/* <div className="progress" style={{ width: progress + "%" }}> */}
+                              <div className="progress" style={{ width: temp.length > 0 ? apipercentage : progress + "%" }}>
+                              </div>
+
+                              {temp.length > 0 ? (apipercentage == "0%") ? <div className="percentage" style={{ right: temp.length > 0 ? apipercentage : progress + "%" }}> {temp.length > 0 ? apipercentage : progress + "%"}</div> : <div className="percentage" style={{ right: temp.length > 0 ? apipercentage : progress + "%" }}>{temp.length > 0 ? apipercentage : progress + "%"}</div> : progress != 0 ? <div className="percentage" style={{ left: temp.length > 0 ? apipercentage : progress + "%" }}>{temp.length > 0 ? apipercentage : progress + "%"}</div> : ""}
+
+                            </div>
+
+
+Endowment-
+
+
+                     <div className="progress-container" data-percentage={temp.length > 0 ? apipercentage : progress}>
+                    <div className="progress" style={{ width: temp.length > 0 ? apipercentage : progress + "%" }}>
+                              </div>
+                              <div className="percentage" style={{ left: temp.length > 0 ? apipercentage : progress + "%" }}>{temp.length > 0 ? apipercentage : progress + "%"}</div>
+                            </div>
+------------------------------------------------------------------------------
+
+
+
+<form id="formSearch" action="">
+        <label class="sr-only black" for="master_search">What are you looking for…?</label>
+        <i class="fa fa-search dld-icon-md dld-sub-header__actions search icon-search dld-icon-md" aria-hidden="true"></i>
+        <input class="search__input searchinput" tabindex="0" type="text" id="master_search addsearch" name="q" placeholder=`+(selectedLanguage == 'english' ? "Search.." : "يبحث") +` aria-label="Search" autocomplete="off">
+        <button type="button" class="btn-mic" id="mic-img" title="" onclick="OpenMic('search')">
+            <i class="fas fa-microphone-alt"></i>
+            <span class="sr-only">What are you looking for…?</span>
+        </button>
+    <input type="hidden" name="__ncforminfo" value="ODbAljjwssfRHkqy73QWMoraajyW5JI06_ZPW4ejNC-fjkD1TYfGJxeOyCNfvEsihrx-N-Vyoc5y3mvM2cmrX1lUAZz2xCEh"/></form>
+
+--------------------
+Postman - https://academy.postman.com/postman-api-fundamentals-student-expert-certification-1/23552
+--------------------
+<form id="formSearch" action="">
+                            <label class="sr-only black" for="master_search">What are you looking for…?</label>
+                            <i class="fa fa-search dld-icon-md dld-sub-header__actions search icon-search dld-icon-md" aria-hidden="true"></i>
+                            <input class="search__input searchinput" tabindex="0" type="text" id="master_search addsearch" name="q" placeholder=`+(selectedLanguage == 'english' ? "Search.." : "يبحث") +` aria-label="Search" autocomplete="off">
+                            <button type="button" class="btn-mic" id="mic-img" title="" onclick="OpenMic('search')">
+                                <i class="fas fa-microphone-alt"></i>
+                                <span class="sr-only">What are you looking for…?</span>
+                            </button>
+                        <input type="hidden" name="__ncforminfo" value="ODbAljjwssfRHkqy73QWMoraajyW5JI06_ZPW4ejNC-fjkD1TYfGJxeOyCNfvEsihrx-N-Vyoc5y3mvM2cmrX1lUAZz2xCEh"/></form>
+
+-------------------------
+
+<li class="language " class="arabic-language"><a href="#" id="SelectedLangID" class="arabic-language selectedLanguage" data-name="` +
+            (selectedLanguage == "arabic" ? "english" : "arabic") +
+            `" data-change-name="` +
+            (selectedLanguage == "arabic" ? "english" : "arabic") +
+            `">` +
+            (selectedLanguage == "arabic" ? "English" : "العربية") +
+            `</a></li>
+
+ <li class="m-btn"><button class="togglebtn"><img class="toggle-btn" id="img-swap" alt="togglebtn" src= "` +
+            require("./loc/images/ioson.png") +
+            `"/></button></li>
+
+------------------------------
+const urlPathname = window.location.pathname.substring(1).replace(".aspx", "");
+
+if (urlPathname.indexOf("/SitePages/Home") !== -1) {
+    // Apply classes for the home page
+    $('#sub-header').addClass('sub-nav-position');
+    $('#footer').addClass('footer-position');
+    $('body').addClass('scroll-move');
+} else {
+    // Remove classes for other pages
+    $('#sub-header').removeClass('sub-nav-position');
+    $('#footer').removeClass('footer-position');
+    $('body').removeClass('scroll-move');
+}
+
+--------------------
+
+
+7386 - 9521
+9524 - 9647
+
+npm install react-bootstrap bootstrap
+npm install @types/prop-types@latest
+
+<div className='services-cards-container'>
+                {this.state.servicesState.map((val, key) => {
+                  return(
+                    <div className='services-cards' style={{ border: '2px solid #ddd',borderRadius: '12px',overflow: 'hidden', margin: '20px',height: '120px', width: '220px',boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',}}>
+                      <div className='container'>
+                        <img src={val.Image.Url} alt={"Main content of " + val.Title} />
+                        <h1 title='' className='service-title' style={{fontSize: '20px', fontWeight: 'bold', marginBottom: '8px',}}>{(this.state.Language == 'English')? val.Title : val.Title_ar } </h1>
+                        <p title='' className='service-desc' style={{fontSize: '16px'}}>{(this.state.Language === 'English')? val.Description.En : val.Description_Ar } </p>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+
+ $("body").addClass("initial-hide");
+    setTimeout(() => {
+        $("body").removeClass("initial-hide");
+    }, 400);
+    $('.initial-hide').hide();
+
+
+https://www.awqafdubai.gov.ae/_layouts/15/viewlsts.aspx?view=14
+
+
+https://login.amaf.ae           /CustomStyleLibrary/BootstrapAndJS/css/Style.css?csf=1&e=usOr30
+https://www.awqafdubai.gov.ae   /CustomStyleLibrary/BootstrapAndJS/css/Style.css?csf=1&e=DVcIEd
+
+
+
+
+
+Endowment and Minor's Trust Foundation | AWQAF DUBAI | HOME
+General Authority Of Islamic Affairs and Endowments
+Ministry of Interior United Arab Emirates
+startdiv-hide
+
+
+ $(document).ready(function(){
+      const content = $('.start-div0');
+      function blockContent(){
+        content.css('display', 'block');
+      }
+      setTimeout(blockContent, 500);
+    })
+
+Properly size images 
+compressed the images 
+compressed the js files 
+And enable the Static and dynamic compression IIS level
+
+Meta-Description - https://developers.google.com/search/docs/appearance/snippet?hl=en#meta-descriptions
+
+https://sharepoint.stackexchange.com/questions/93173/sp2013-sitemap-xml-of-public-facing-website-is-not-generated
+
+AMAF related Links :
+https://www.crunchbase.com/organization/awqaf-and-minors-affairs-foundation/signals_and_news
+
+https://www.dubaipulse.gov.ae/organisation/awqaf-minors-affairs-foundation
+
+https://dubaicareers.ae/en/Employers/pages/Information.aspx?ID=9
+
+https://www.menaherald.com/en/tag/awqaf-minors-affairs-foundation-amaf
+
+Duplicate without user-selected canonical is when Google finds two or more identical or very similar pages on your website, but none of the pages have a canonical tag. A canonical tag is a piece of code that tells Google which page is the original or "master" version of a duplicate.
+
+Site:https://www.awqafdubai.gov.ae/
+
+amaf-staticpage
+
+
+Alt images 
+apply Sitemap 
+
+# For more information, see https://support.google.com/webmasters/answer/6062608?hl=en&ref_topic=6061961
+
+User-agent: *
+Disallow:
+
+Need to change the Legislation PDF name to Endowment AD
+
+condition pattern - ^awqafdubai\.gov\.ae$
+UAT - ^login\.amaf\.ae$
+
+https://blog.elmah.io/web-config-redirects-with-rewrite-rules-https-www-and-more/
+
+Modified the robots.txt to avoid all backend links.
+
+Site map generator - https://small-seo-tools.zuumsoft.com/tool/xml-sitemap-generator-tool/
+
+https://www.bing.com/webmasters/help/my-sites-05a5a164
+
+https://weblogs.asp.net/owscott/iis-url-rewrite-rewriting-non-www-to-www
+
+SEO Tools related - https://chrome-stats.com/a/aHR0cHM6Ly9zbWFsbC1zZW8tdG9vbHMuenV1bXNvZnQuY29t
+SiteMap Generator link - https://small-seo-tools.zuumsoft.com/tool/xml-sitemap-generator-tool/
+
+https://blogs.perficient.com/2012/09/17/search-engine-optimization-for-sharepoint-2013-sitespart-i/
+
+
+Sitemap: https://www.awqafdubai.gov.ae:443/sitemap.xml
+
+Manage service Application -> Search service 
+
+V#MFw9ATEZ4kBmY
+
+SEO tools:
+
+https://www.semrush.com/lp/semrush-seo-tools-4/en/?irclickid=1lC2a0R4jxyPToJV6AyBvwnXUkH0ud1kXQUAxE0&utm_source=affiliate&utm_Medium=impact&utm_campaign=197746&utm_terms=&utm_content=&irgwc=1&utm_medium=impact&utm_term=
+
+Endowment and Minor's Trust Foundation | AWQAF DUBAI | HOME
+
+https://simplifiedseotools.com/seo-site-audit/account/register
+
+xcjJ06
+https://html-online.com/dnn-301-rewrite-rule-generator/
+
+site:https://www.amaf.gov.ae/
+
+$(document).ready(function () {
+      if (0 == 0) {
+        $("#notificationModalLink> .red-dot").hide();
+        $("#notificationModalLinkMobile> .red-dot").hide();
+        $(".no-notification-msg").removeclassName("hide");
+      }
+      $(".mobile-search-icon").click(function () {
+        $("#searchWrapperMobile").addclassName("search-mobile-wrapper");
+      });
+
+      $('a[href="#serviceCardContainer"]').on("click", function (e) {
+        e.preventDefault();
+        localStorage.setItem("show_our_partners", "1");
+        document.location.href = "index.html";
+      });
+    });
+-----------------------------
+$(document).ready(function () {
+            $('.main-nav').click(function (event) {
+              event.preventDefault();
+              $('.main-nav').not(this).removeClass("active");
+              $(this).addClass("active");
+            });
+          });
+--------------------------
+$(document).ready(function () {
+            $('.main-nav').click(function (event) {
+                event.preventDefault();
+                $('.main-nav').not(this).removeClass("active");
+                $(this).toggleClass("active");
+            });
+        });
+-----------------------------
+ const navItems = document.querySelectorAll('.navbar-nav');
+
+          for (let i = 0; i < navItems.length; i++) {
+
+              navItems[i].addEventListener('click', (event) => {
+                  console.log('AfterClick');
+                  
+                  for (let j = 0; j < navItems.length; j++) {
+                      navItems[j].querySelector('li').classList.remove('active');
+                  }
+          
+                  navItems[i].querySelector('li').classList.add('active');
+              });
+          }
+
+------------------------------
+ $(document).ready(function() {
+          $('.navbar-nav').on('click', function(event) {
+              
+              const mainNavParent = $(event.target).closest('.main-nav');
+    
+              if (mainNavParent.length) {
+                  console.log('AfterClick');
+
+                 $('.navbar-nav').removeClass('active');
+                mainNavParent.addClass('active');
+            }
+        });
+      });
+-------------------------------
+
+Robots file - https://awqafdubai.gov.ae/robots.txt
+contains the new Change Request (CR) for the website estimation
+ 
+Developer tool-  https://developer.chrome.com/docs/devtools/network/reference/?utm_source=devtools#provisional-headers
+
+nav-item main-nav active
+
+item.Image_x005f_Ar.Url
+
+
+backgroundImage: ' linear-gradient(rgb(0 117 101 / 12%),rgb(0, 117, 101, 0.1)),url(' + ((this.state.Language === 'English') ? item.Image_Ar.Url : item.Image_Ar.Url ) + ')'
+
+main-nav -> a -> show - add class -> ul - show add class
+
+Username : amaf\spsfarm
+
+Password : @m@f$pf@rm22 
+
+https://jsfiddle.net/itzmukeshy7/7jfLfwop/
+-----------------------------------------------
+$(document).ready(function(){
+    var lastScrollTop = 0;
+    $(window).scroll(function (event) {
+     var st = $(this).scrollTop();
+     if (window.matchMedia('(min-width: 1025px)').matches) {
+         if (st > lastScrollTop) {
+             $('#sub-header').addClass('sub-nav-position');
+             $('#footer').addClass('footer-position');
+             // $('body').addClass('scroll-move');
+            
+         } else {
+             $('#sub-header').removeClass('sub-nav-position');
+             $('#footer').removeClass('footer-position');
+      
+         }
+     } else {
+         if (st > lastScrollTop) {
+             $('#sub-header').addClass('sub-nav-position-m');
+             $('#footer').addClass('footer-position-m');
+         } else {
+             $('#sub-header').removeClass('sub-nav-position-m');
+             $('#footer').removeClass('footer-position-m');
+         }
+     }
+     lastScrollTop = st;
+    });
+
+   })
+------------------------------------------------
+
+
+^SitePages/Home\.aspx$
+https://www.awqafdubai.gov.ae/Home
+
+gastrointestinal,intestines
+raghulch60@gmail.com
+raghul@123
+^SitePages/Home\.aspx$
+
+^SitePages/AMAF-Service\.aspx$
+https://www.awqafdubai.gov.ae/AMAF-Service
+
+
+Subject: Request for UAT Cloud CDN Cache Clearance
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. We have an issue in our UAT environment where, after applying CSS changes for the new design, it takes an hour for the updates to reflect due to caching. we kindly request your assistance in clearing the cache on the UAT cloud CDN or aligning it with the production settings.
+
+
+
+
+Meta Descriptions - https://developers.google.com/search/docs/appearance/snippet?hl=en
+Image compressor - https://imagecompressor.11zon.com/en/compress-image/compress-image-to-900kb
+accurate image - https://imagecompressor.com/
+
+HTTP Compression - https://learn.microsoft.com/en-us/iis/configuration/system.webserver/httpcompression/
+https://learn.microsoft.com/en-us/iis/configuration/system.webserver/staticcontent/clientcache
+CDN compression guide - https://www.cdnplanet.com/guides/compression/
+
+Website performance checker - https://gtmetrix.com/analyze.html
+https://pagespeed.web.dev/analysis/
+
+But after removed the .aspx some of the page content is getting hided, and the API's which retireve form the ID's are getting affected, so some set we need to
+
+https://login.amaf.ae/_layouts/15/sitemanager.aspx
+https://mysharepointlearnings.wordpress.com/2013/10/20/sitemaps-in-sharepoint-2013/
+
+https://stackoverflow.com/questions/13725669/remove-aspx-extension-from-sharepoint-pages
+https://blog.mastykarz.nl/friendly-urls-sharepoint-site-4-steps-iis7-url-rewrite-module/
+
+{
+      var getCurrentURL = window.location.href;
+      if (getCurrentURL.indexOf('language=ar') != -1) {
+        var arabicTitle  = this.state.subPageData.SubPageTitle_Ar;
+        document.title = "أوقاف دبي -" + arabicTitle || this.state.subPageData.SubPageTitle;
+      } else {
+        document.title = "AWQAF DUBAI -" + this.state.subPageData.SubPageTitle;
+      }
+-----------
+Title
+Keyword
+Description this all were applied in our website for SEO
+
+Sharepoint 
+Site collection Administration
+Search engine sitemap - Activated
+Central Admin
+Search service Application - Started
+
+In Google Search console
+Pointed the domain
+applied the sitemap - Link
+
+Existing Domian - amaf.gov.ae was working with those above setup when we search in google, after changing into awqafdubai.gov.ae only its not appearing in google 
+
+CSS
+/* #O365_NavHeader{
+  display: none;
+} */
+/* #SuiteNavPlaceHolder{
+  display: none !important;
+} */
+/* #O365_MainLink_NavMenu
+{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+} */
+
+/* .text-uppercase::before {
+  content: "Default Heading Text";
+} */
+
+/* [aria-hidden="true"] {
+  position: relative;
+}
+
+[aria-hidden="true"] * {
+  visibility: hidden;
+  pointer-events: none;
+} */
+
+
+
+
+
+https://sharepoint.stackexchange.com/questions/300904/rest-api-add-item-to-sharepoint-list-cannot-convert-a-primitive-value-to-the-e
+
+  if (documentExtractTitle === '- ' || documentExtractTitle == encodeURIComponent('- ')) {
+
+
+https://www.hackerearth.com/practice/
+
+https://codedamn.com/courses
+
+
+Endowment And Minors’ Trust Foundation (AWQAF) website is an online channel for service related to endowments (AWQAF) management and minor's inheritance and assets management, including endowment donation, endowment program contributions
+
+
+أمآف; Endowment; مؤسسة الأوقاف وشؤون القصر; مساهمة وقفية; Foundation; Inheritance; waqf; أوقاف دبي; bread for all; الأوقاف; MBRGCEC; اشهاد وقفي; اوقاف مستدامة; AWQAFDubai; Awqaf; Ishhad; تبرع; تنمية الأصول; Awqaf and Minors Affairs Foundation; endowment developments; خبز السبيل; استشارات الوقف والهبة; Property; Awqaf Dubai; AMAF; Affairs; Donation; endowment registration; minors; DubaiAMAF; Endowments
+
+Awqaf and Minors Affairs Foundation, Awqaf, Minors, Affairs, Foundation, Endowments, Property, Minors , AMAF , inheritance, endowment developments, DubaiAMAF, MBRGCEC, waqf , Donation, Ishhad, bread for all, endowment , Awqaf Dubai, AWQAFDubai, endowment registration,
+مؤسسة الأوقاف وشؤون القصر , الأوقاف , أمآف, تبرع, مساهمة وقفية, اوقاف مستدامة, خبز السبيل, اشهاد وقفي, استشارات الوقف والهبة, تنمية الأصول, أوقاف دبي
+
+Endowment And Minors’ Trust Foundation, Awqaf, Minors, Affairs, Foundation, Endowments, Property, Minors, AWQAF, inheritance, endowment developments, Dubai Awqaf, MBRGCEC, waqf, Donation, Ishhad, bread for all, endowment, Awqaf Dubai, awqaf dubai, endowment registration,
+مؤسسة الأوقاف وشؤون القصر , الأوقاف , أمآف, تبرع, مساهمة وقفية, اوقاف مستدامة, خبز السبيل, اشهاد وقفي, استشارات الوقف والهبة, تنمية الأصول, أوقاف دبي
+
+Endowment And Minors’ Trust Foundation, Awqaf, Minors, Affairs, Foundation, Endowments, Property, Minors, AWQAF, inheritance, endowment developments, Dubai Awqaf, MBRGCEC, waqf, Donation, Ishhad, bread for all, endowment, Awqaf Dubai, awqaf dubai, endowment registration,
+مؤسسة الأوقاف وإدارة أموال القصر , الأوقاف , دبي أوقاف , تبرع, مساهمة وقفية, اوقاف مستدامة, خبز السبيل, اشهاد وقفي, استشارات الوقف والهبة, تنمية الأصول, أوقاف دبي 
+
+Endowment And Minors’ Trust Foundation, Awqaf, Minors, Affairs, Foundation, Endowments, Property, Minors, AWQAF, inheritance, endowment developments, Dubai Awqaf, MBRGCEC, waqf, Donation, Ishhad, bread for all, endowment, Awqaf Dubai, awqaf dubai, endowment registration,
+مؤسسة الأوقاف وإدارة أموال القصر , الأوقاف , دبي أوقاف , تبرع, مساهمة وقفية, اوقاف مستدامة, خبز السبيل, اشهاد وقفي, استشارات الوقف والهبة, تنمية الأصول, أوقاف دبي
+
+AWQAF DUBAI About
+AWQAF DUBAI Service
+
+//Aria-label
+const allLinks = document.querySelectorAll('a');
+for (let i = 0; i < allLinks.length; i++) {
+  const link = allLinks[i];
+  if (link.textContent.trim() === 'Learn More') {
+    link.setAttribute('aria-label', 'Learn more: ' + link.textContent);
+  }
+}
+
+
+SiteMap Setup link - https://mysharepointlearnings.wordpress.com/2013/10/20/sitemaps-in-sharepoint-2013/
+
+<a aria-label='Read more about AWQAF Dubai projects' href={(this.state.Language == 'English') ? this.props.siteurl + '/SitePages/Project-LP-1.aspx?projectID=' + data.ProjectID + "&causeID=" + data.ProjectCategory.ID : this.props.siteurl + '/SitePages/Project-LP-1.aspx?projectID=' + data.ProjectID + "&causeID=" + data.ProjectCategory.ID + "&language=ar"}>{(this.state.Language == 'English') ? "READ MORE" : "اقرأ المزيد "}<span className="visually-hidden">Read more about AWQAF Dubai projects</span></a>
+
+/* #SuiteNavPlaceHolder{display:none;}
+
+We are now looking for an external source to help us to fix the issue
+
+ I wanted to inform you that I have thoroughly reviewed the TIRS Report and have taken the necessary steps to address and rectify the vulnerability issues identified.
+
+ I have implemented the required fixes to ensure security. And that the identified vulnerabilities have been successfully resolved.
+
+https://www.scam-detector.com/validator/
+
+It's not a matter of, as you say, updating domain, there's no such thing in LiveChat. What we see in your screenshot is a message from an agent, sent most likely by using a canned response - a message you saved to be used with a shortcut.
+
+If you wish to edit it, you need to locate it in the settings and change it: https://my.livechatinc.com/settings/canned-responses
+----------
+That's not something that's updated on our end, you have access to your chat settings.
+
+For example, chat text can be edited here: https://my.livechatinc.com/settings/language
+Please make sure to choose the correct group with the group picker at the top
+
+One of the agents is named AMAF, you can edit that in their profile: https://my.livechatinc.com/team/agent/it_admin%40amaf.gov.ae
+
+
+Dicee Challenge Step 0 - Download the Skeleton Project
+As always, you can find the resources and download links over at the Web Dev Resources List here:
+
+https://www.appbrewery.co/p/web-development-course-resources
+
+js Preparation - https://www.interviewbit.com/courses/fast-track-js/
+
+https://www.appbrewery.co/p/web-development-course-resources
+
+Bug #10492
+https://cahdroid.com/wondershare-filmora-12-crack-download/
+https://fileroot.net/how-to-change-video-skip-time-on-youtube/
+https://www.musti.my.id/s/zixYYaPAmBMnDyP
+https://fileroot.net/enable-dark-mode-on-google-phone/
+https://shortcuthigh.com/how-to-install-wondershare-filmora-12/
+https://fileroot.net/enable-dark-mode-on-google-phone/
+
+bonyan - 3,377
+
+https://awqafdubai.gov.ae/images1/Qirtas-Endowment.jpg?csf=1&e=gXKals
+
+amaf.portal@gmail.com
+
+AMAF@amaf2022
+
+Bug #10928 - After Deploy
+
+
+https://analytics.google.com/analytics/web/#/a222192246p388993654/admin/setup-assistant/
+
+Mediacenter
+HealthSection
+const newWidth = currentWidth + 10;
+const maxWidth = 50; // Set the maximum width
+
+let limitedWidth;
+
+if (newWidth <= maxWidth) {
+  limitedWidth = newWidth;
+} else {
+  limitedWidth = maxWidth;
+}
+
+targetElement.style.setProperty("--before-width", limitedWidth + "px");
+
+AWS AMAF AppCatalog 
+https://amaf.rapiddatatech.com/sites/AppCatalog/AppCatalog/Forms/AllItems.aspx#InplviewHash261868c0-8b92-4705-99b4-3d72b867f64c=WebPartID%3D%7B261868C0--8B92--4705--99B4--3D72B867F64C%7D
+
+
+<iframe width="100%" title="MoreAboutgovae" height="507" src=` + (selectedLanguage == "english" ? "https://04.gov.ae/case-generate?entity=a7f2f61a-bc06-ec11-b6e5-0022486fc780&lang=en" : 'https://04.gov.ae/case-generate?entity=a7f2f61a-bc06-ec11-b6e5-0022486fc780&lang=ar') + ` frameborder="0" allowfullscreen>
+
+const urlParams = new URLSearchParams("P25hbWU9SGFzc2FuIElicmFoaW0gQWhtYWQgSHVrYWwmbW9iaWxlPTA1MDY5OTM4NjkmZW1haWw9c2FtYXIucXV0b2JAZ21haWwuY29tJmxhbmd1YWdlPWVu");
+// const base64EncodedQuery = urlParams.get("bmFtZT3YudmI2KfYt9mBICDYtdmB2LEmbW9iaWxlPSs5NzE1MjY4NTMzMTQmZW1haWw9c2ZhcmF3YXRlZjEyQGdtYWlsLmNvbSZsYW5ndWFnZT1lbg");
+
+// console.log("base64code : " + base64EncodedQuery);
+
+const decodedQuery = atob(urlParams.toString());
+const decodedParams = new URLSearchParams(decodedQuery);
+
+console.log("Decoded Params:", decodedQuery);
+      
+const paramsname = decodedParams.get('name');
+const paramsmail = decodedParams.get('email');
+const paramsmobile = decodedParams.get('mobile');
+
+console.log("Name:", paramsname);
+console.log("Email:", paramsmail);
+console.log("Mobile:", paramsmobile);
+--------------------
+HealthCause
+aria-label="Learn more about AMAF"
+
+General setting - Blog API Settings
+
+ContactUsFooter
+enquiry-and-find-us
+
+https://fetch.spec.whatwg.org/#access-control-allow-origin-response-header
+
+https://caocacao.net/wondershare-filmora-download/
+https://systemtutos.com/en/download-filmora-full/
+12.3.0.2341
+C:\Users\IT Admin\AppData
+nav - sp-appBar
+spSiteHeader
+
+SharePoint URL's Shortcuts - https://sharepointstuff.com/2021/03/30/useful-sharepoint-urls/
+ I hope this email finds you well. I am writing to bring to your attention an accessibility issue we have encountered on our SharePoint Server 2019 Modern UI website. We have been using your tool, Wave Web Accessibility Evaluation Tool (https://wave.webaim.org/), to test the accessibility of our website, but we have noticed that it is not fetching some of the content within the SharePoint web parts.
+
+We appreciate the efforts you have put into developing a reliable accessibility evaluation tool, and we have found it extremely useful in ensuring our website meets accessibility standards. However, we are currently facing a limitation when using Wave to evaluate the accessibility of our SharePoint web parts.
+
+When we run the accessibility check using Wave on our website, it fails to fetch some of the content within the SharePoint web parts.
+
+Thank you very much for your attention to this matter. We look forward to your prompt response and assistance in resolving this issue.
+https://www.javatpoint.com/base64-decoding-in-javascript#:~:text=In%20JavaScript%2C%20you%20can%20easily,binary%20data%20as%20a%20string.
+Application Customizer - https://www.spguides.com/spfx-application-customizer/
+https://webaim.org/contact/#jaredsmith
+C:\Users\arunf\AppData\Roaming\Microsoft\MigrationTool\rapiddatatech.com\WF_fd6c1b8a\Report\TaskReport_fe323f5b
+https://www.beyondintranet.com/blog/configure-the-sharepoint-online-app-catalog/
+https://www.youtube.com/watch?v=XowMecZvcIY
+https://dietitianlavleen.com/blog/best-way-to-consume-nuts-and-seeds
+SBA-322701506785
+ICIC0003227
+https://acora.one/news/article/sharepoint-online-vs-on-premises
+https://www.beyondintranet.com/blog/sharepoint-on-premise-vs-online/
+https://www.manageengine.com/sharepoint-management-reporting/kb/how-to-migrate-sharepoint-on-premises-to-online.html
+https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products-b?https://studio.d-id.com/
+------------------
+npm install -g yo @microsoft/generator-sharepoint --force
+arunachalamjaisankar@outlook.com
+nlcptdkxsfzrrdcq
+
+
+https://github.com/features/copilot
+
+
+-----------------
+To remove unwanted logs in SharePoint, you can follow these steps:
+
+Access the SharePoint Central Administration site: Log in to the SharePoint server using an account with administrative privileges, and open the SharePoint Central Administration site.
+
+Navigate to the Diagnostic Logging settings: In the Central Administration site, go to the "Monitoring" section and click on "Configure diagnostic logging" under the "Reporting" category.
+
+Adjust the logging level: On the Diagnostic Logging page, you'll see different categories and their corresponding logging levels. Select the category for which you want to reduce or eliminate logging.
+
+Choose a logging level: You can choose from the following logging levels:
+
+None: No logs will be generated for the selected category.
+Unexpected: Logs only unexpected errors and critical events.
+Monitorable: Logs errors, warnings, and events that may require monitoring.
+High: Logs all events including informational messages.
+Verbose: Logs detailed information for troubleshooting purposes.
+Apply the changes: Once you've selected the desired logging level for the category, click on the "OK" or "Apply" button to save the changes.
+In sharepoint Management Shell :
+
+Get-SPLogEvent -StartTime (Get-Date).AddDays(-12) | Where-Object { $_.Level -eq "Error" }
+
+Get-SPLogEvent -StartTime (Get-Date).AddDays(-12) | Where-Object { $_.Level -eq "Error" } | ForEach-Object {
+    Clear-SPLogFile -Identity $_.Path
+}
+-----
+Get-SPLogEvent -StartTime (Get-Date).AddDays(-12) | Where-Object { $_.Level -eq "Error" -or $_.Level -eq "Warning" }
+Get-SPLogEvent -StartTime (Get-Date).AddDays(-12) | Where-Object { $_.Level -eq "Error" -or $_.Level -eq "Warning" -or $_.Level -eq "Information" }
+Get-SPLogEvent -StartTime (Get-Date).AddDays(-7) | Where-Object { $_.Level -eq "Error" -or $_.Level -eq "Warning" } | ForEach-Object {
+    Clear-SPLogFile -Identity $_.Path
+}
+
+
+
+----------------------
+we need to make a build-on React Js module package for the new design.
+From the new design, UAT needs to take a backup of UI & JS packages.
+For the Site content, we need to update manually in the SharePoint production
+And for the new updated logos and Images need to upload in the SharePoint backend production in order to update with the new one.
+Complaints
+شكاوى
+and make the deployment
+
+1, Need to configure the list set content in 'AboutUsAndMediaCenter' for pages in English and Arabic.
+2, Make changes to the updated image with the appropriate links in SharePoint.
+3, Configure the web parts in the SharePoint on-site pages.
+4, For AppCatalog needs to generate the packages based on productID.
+---------------------
+Java, Javascript, React Js & tsx , Sharepoint Server 2019, Typescript, MYSQL, SQL Server.
+
+'" + listname + "'
+--------------------- 
+<cors enabled="true" failUnlistedOrigins="true">
+            <add origin="*" />
+            <add origin="https://wave.webaim.org" allowCredentials="true" maxAge="120">
+                <allowHeaders allowAllRequestedHeaders="true">
+                    <add header="Access-Control-Allow-Origin: *" />
+                </allowHeaders>
+				<allowMethods>
+					<add method="OPTIONS" />
+					<add method="GET" />
+					<add method="POST" />
+					<add method="DELETE" />
+				</allowMethods>
+            </add>
+            <add origin="http://*" allowed="false" />
+         </cors>
+---------------------
+
+8764310116
+
+https://esvapps.amaf.ae/p/login/gotoDonationService?servicecode=EPD&programcode=EP-21-0000034
+
+For Production Gateway - 192.168.2.50 , PWeb - 172.16.145.20
+Title,Title_Ar,Description,Description_Ar,Fees_En,Fees_Ar,Duration_En,Duration_Ar,Requirement_En,Requirement_Ar,Steps_En,Steps_Ar,Questions_En,Questions_Ar",
+
+Regarding the requested changes, we have carefully reviewed the attached file. However, to provide a more accurate estimate of the effort required,
+
+Bing Chat GPT - https://www.bing.com/search?q=What+can+the+new+Bing+chat+do+for+you%3F&showconv=1&form=M403K8%5C
+-------------------------------------------
+Sorry, something went wrong
+An unexpected error has occurred.
+Technical Details
+
+
+
+Troubleshoot issues with Microsoft SharePoint Foundation.
+Correlation ID: 4677e9a0-91e2-6084-135e-fbaad880b90f
+
+Date and Time: 10/31/2023 2:29:03 PM
+-------------------------------------------
+Personal info - https://forms.office.com/Pages/ResponseDetailPage.aspx?id=TmHqKtLQMUK1P4bf4vVK-8WZpFdNZsxJjnwW3BD5tEtUQVM0MktBMTRKVzlEMDI2QVRJN0o1V0NHWi4u&rid=127&GetResponseToken=HrhxuH-T7VLtqG6En1wSSC0ZmUe9FVLvmU50ysBEM24&origin=rc
+crawling and indexing in seo search engine
+
+We are experiencing the issue only in mobile view, please check the attached screenshot. 
+No, Arfath's report pertains to a different issue
+
+
+Sharepoint API's - https://www.spguides.com/sharepoint-rest-api/
+
+$(document).ready(function() {
+    const content = document.querySelectorAll('start-div, start-div1, start-div2' ,);
+    function showContent() {
+    if(content)
+    content.style.display = 'block';
+}
+setTimeout(showContent, 5000);
+});
+
+
+<label class="fontzero" for="addsearch">search</label>
+ <label class="fontzero" for="addsearch">search</label>
+
+I am pleased to inform you that the requested change has been successfully implemented and deployed to our production environment. This change is now live and accessible to our users.
+
+ I'm writing this to infrom you that I'll be attending my family ceremony on (Mention the date), so I won't be able to report office and would like to request a leave permission for that day's mentioned.
+
+I would like to assure you that I will make sure all my tasks and responsibilities are covered before I leave.
+
+Thank you for considering and support.
+
+
+ I'm writing to let you know that I'll be attending my cousin's sister's wedding ceremony on Monday (13/2/2023), so I won't be able to report office and would like to request leave for that day.
+
+I would like to assure you that I will make sure all my tasks and responsibilities are covered before I leave.
+
+Thank you for considering my request. I look forward to your positive response.
+
+-----
+const urlParams = new URLSearchParams(window.location.search);
+    console.log("UrlParams : " + urlParams);
+    const decodedQuery = atob(urlParams.toString());
+    console.log("decodedQuery : " + decodedQuery);
+    const decodedParams = new URLSearchParams(decodedQuery);
+    console.log("DecodedParams" +decodedParams );
+    var paramsname = decodedParams.get('name');
+    var paramsmail = decodedParams.get('email');
+    var paramsmobile = decodedParams.get('mobile');
+-------------------
+
+{(this.state.webpartTitleData.Redirect_Url_En && this.state.webpartTitleData.Redirect_Url_Ar) ? (this.state.Language == 'English') ? this.state.webpartTitleData.Redirect_Url_En.Description : this.state.webpartTitleData.Redirect_Url_Ar.Description : ""} &nbsp; <i className="fas fa-arrow-right"></i></a>
+
+<h2 class="box_location">“WHATSAPP”​​<br/></h2>​ 
+Write a email to manager for to reply valid reason for late on coming office, for that reason is using 4 transport to come office and train cut for the between station and near office metro construction work. and on some days night time work.
+
+I hope this email finds you well. I would like to provide a valid explanation for my recent instances of arriving late to the office. I understand the importance of punctuality and I take full responsibility for any inconvenience my tardiness may have caused.
+I have been facing challenges in my commute to the reach office due to several reasons.I live a considerable distance away from the office, which exacerbates the challenges of my daily commute.And using Four Way Mode of Transport to commute to the office, I need to utilize a combination of four different modes of transport, including a bus, a train, a auto, and a final walk because of Metro contruction. 
+
+ As part of my responsibilities on a critical project, there have been instances where I had to work into the night time.
+
+
+I hope this email finds you well. I would like to provide a valid explanation for my recent instances of arriving late to the office. I understand the importance of punctuality and I take full responsibility for any inconvenience my tardiness may have caused.
+I have been facing challenges in my commute to the reach office due to several reasons.I live a considerable distance away from the office, which exacerbates the challenges of my daily commute.And using Four Way Mode of Transport to commute to the office, I need to utilize a combination of four different modes of transport, including a bus, a train, a auto, and a final walk because of Metro contruction.
+
+ 
+
+As part of my responsibilities on a critical project, there have been instances where I had to work into the night time.
+Thank you for your understanding, and I appreciate your support as I work to improve my punctuality.
+
+Sincerely,
+
+[Your Name]
+
+I apologize for any inconvenience my lateness may have caused and understand the importance of being on time.
+
+
+
+
+
+
+We have optimized the webpart code
+API calls has been asyncronous and parallel working
+
+We optimized the webpart code and the application customizer extenstion on Sharepoint spfx
+API requests call are asyncronous to increase the performance of API's
+
+As, we tried to implementing the official document templates to make readily accessible to present with organisation Assest in MS-office , it's not getting reflected after we performed with the SP query , thus we are attempting another technique to make it visible on OA.
+
+
+<div dangerouslySetInnerHTML={{ __html: (this.state.Language == 'English') ?  <div class="row">
+      <div class="col-sm-6">
+         <h4>Documents required </h4>
+         <ul>
+            <li>ID card<br/></li>
+         </ul> ​​​​​ </div>
+      <div class="col-sm-6">
+         <h4>Who is eligible to apply </h4>
+         <p>- Governmental entities ​​​<br/></p>
+         <p>- Businesses ​​​<br/></p>
+         <p>- Individuals​​​​​​​​​​​​​<br/></p>
+      </div>
+   </div> : <div class="row">
+      <div class="col-sm-6">
+         <h4>الوثائق المطلوبة</h4>
+         <ul>
+            <li>بطاقة الهوية<br/></li>
+         </ul> ​​​​​ </div>
+      <div class="col-sm-6">
+         <h4>من يحق له التقديم​ </h4>
+         <p>الجهات الحكومية -&#160;​​​<br/></p>
+         <p>الأعمال ​-​​<br/></p>
+         <p>الأفراد ​-​​<br/></p>
+      </div>
+   </div> }}></div>
+
+Requirement_En
+
+
+
+05
+
+
+Google Analytical
+OUR INITIATIVES MAKE AN IMPACT
+
+amaf.portal@gmail.com
+
+AMAF@amaf2022
+------------------------
+const urlParams = new URLSearchParams(window.location.search);
+    var paramsname = base64.decode(urlParams.get('name'));
+    var paramsmail = base64.decode(urlParams.get('email'));
+    var paramsmobile = base64.decode(urlParams.get('mobile'));
+    console.log("URlparams=" + urlParams + "Name=" + paramsname)
+    
+
+    $("#your-name-enq").val(paramsname);
+    $("#your-email-enq").val(paramsmail);
+    $("#your-mobile-enq").val(paramsmobile);
+------------------------
+const urlParams = new URLSearchParams(window.location.search);
+var paramsname = urlParams.get('name');
+var paramsmail = urlParams.get('email');
+var paramsmobile = urlParams.get('mobile');
+
+// Base64 decoding the parameters
+paramsname = atob(paramsname);
+paramsmail = atob(paramsmail);
+paramsmobile = atob(paramsmobile);
+--------------------------------------
+const urlParams = new URLSearchParams(window.location.search);
+var paramsname = urlParams.get('name');
+var paramsmail = urlParams.get('email');
+var paramsmobile = urlParams.get('mobile');
+
+// Decoding the parameters
+paramsname = decodeURIComponent(paramsname);
+paramsmail = decodeURIComponent(paramsmail);
+paramsmobile = decodeURIComponent(paramsmobile);
+-------------------------------------------------
+Migration Tool - ShareGate
+https://www.devglan.com/online-tools/text-encryption-decryption
+https://www.base64encode.org/
+Dubai Endowment and ''Pay & Win'' 
+
+_layouts/15/_vti_bin/diagnostics.asmx">
+
+
+
+Restricting the pages = https://blog.mastykarz.nl/preventing-authenticated-visitors-browsing-system-pages/
+
+LhdBNKYvaxvTQ.=dJhLvQmVStiKI@F$&
+
+saranrajk1108@gmail.com
+
+  Site Access الحكم
+https://www.photopea.com/
+
+
+--------------------------
+App Integration
+https://login.amaf.ae/_layouts/15/appinv.aspx
+https://login.amaf.ae/_layouts/15/appregnew.aspx
+https://login.amaf.ae/_layouts/15/appprincipals.aspx
+-lg-12 col-md-12 col-sm-6
+https://rapiddatatech1.sharepoint.com/sites/Awqaf/_layouts/15/viewlsts.aspx?view=14
+
+http://amaf-spweb-uat2:28664/SitePages/Forms/ByAuthor.aspx?useFiltersInViewXml=1&FilterField1=Author&FilterValue1=System%20Account&FilterType1=User
+6p^@pw!N2o21
+
+@cSKN&YnFk6a
+------------------------
+If product wizards failed to Run - (Refer this Link) https://regroove.ca/archive/2015/04/29/how-to-resolve-failures-in-the-sharepoint-product-config-psconfig-tool/ 
+https://freecodecamp.org/news/debouncing-explained/
+----
+
+if (getCurrentURL.indexOf('/SitePages/Payment-Application.aspx?SubServiceID=VMS&ServiceID=1') != -1) {
+                url = siteUrl.replace('https://login.amaf.ae/SitePages/Payment-Application.aspx?SubServiceID=VMS&ServiceID=1', 'https://esvapps.amaf.ae/link/goto?service=VMS')
+
+            }
+----
+
+
+RemovedinAddSearch->display:inline-block
+
+RD-0134-106-5CD201H2VZ
+I would like inform you that i gonna attend my cousins sister marriage,so here i request leave on Monday(13/2/23)
+	P -> Initiatives And Projects Categories
+Services categories -> Our Services
+
+Slider 
+ - <span className='carousel-control-prev-icon' aria-hidden='true'></span>
+    +        <span className='fa fa-chevron-left' aria-hidden='true'></span> 
+
+    backgroundImage: 'url(' + item.Image_x005f_mobile.Url + ')' 
+    backgroundImage: ' linear-gradient(rgb(0 117 101 / 25%),rgb(0 117 101 / 33%)),url(' + item.Image_x005f_mobile.Url + ')'
+
+Projects
+ Donate Here, Read More
+
+SubpageHeader
+
+ <p style={{ background: 'rgba(0, 0, 0, 0.01)' }}>{(this.state.Language === 'English') ? this.state.subPageData.Title : this.state.subPageData.Title_Ar}</p>
+                  <h1 style={{ background: 'rgba(0, 0, 0, 0.01)' }}>{(this.state.Language === 'English') ? this.state.subPageData.SubPageTitle : this.state.subPageData.SubPageTitle_Ar}</h1>
+
+Newsevents
+
+<div class='col-lg-12 categorydiv'>" + (this.state.Language === 'English') ? data.category + "|" + data.date : data.category_Ar + "|" + data.date + "</div>
+
+https://amaf.rapiddatatech.com/sites/AppCatalog/AppCatalog/Forms/AllItems.aspx#InplviewHash261868c0-8b92-4705-99b4-3d72b867f64c=WebPartID%3D%7B261868C0--8B92--4705--99B4--3D72B867F64C%7D
+
+{temp.length > 0 ? (apipercentage == "0%") ? "" : <div className="percentage" style={{ right: temp.length > 0 ? apipercentage : progress + "%" }}> {temp.length > 0 ? apipercentage : progress + "%"}</div> : progress != 0 ? <div className="percentage" style={{ left: temp.length > 0 ? apipercentage : progress + "%" }}>{temp.length > 0 ? apipercentage : progress + "%"}</div> : ""}
+-----------------------------
+Arabic_x0020_Title%20eq%20%27
+Title%20eq%20%27" 
+https://stackoverflow.com/questions/24437914/there-was-no-endpoint-listening-at-url-that-could-accept-the-message - Check it.
+
+https://sharingo365.wordpress.com/2019/02/11/configuring-robots-txt-for-public-facing-search-agent/
+---------------------
+
+Need to change the settings of Anonymous users to prevent the details from appearing on the links in Google
+
+Removal of URL Google search - https://ahrefs.com/blog/remove-urls-from-google/
+
+To upgrade the production product key or to check the currect version - https://www.c-sharpcorner.com/article/steps-to-upgrade-sharepoint-2019-license-key/
+
+Refused to connect error solution - https://learn.microsoft.com/en-us/answers/questions/953264/refused-to-connect-error-when-trying-to-add-app-in
+
+
+-------------------
+  I have received your request to add an image to the government banner as marked below. In order to proceed, I would like to request an image with a resolution of 1260 x 450 pixels. This resolution will ensure that the image fits properly and appears in high quality on the banner.
+Changes made
+amaf-services -> <a className='text-capitalize>
+brandlogo changed in vs code
+
+Live chat , Happiness meter Icon in HeaderApplication
+
+https://login.amaf.ae/_layouts/15/appinv.aspx
+
+Projects -> Donate Here -> Read More
+
+News -> Read More
+
+Testinomals - Count 2 = count 1
+
+Contact-us-social-profiles = Colors #038349 -> Color #007565
+
+Slider -> Background color & Right-Left Arrow
+
+{
+    background-color: #007565;
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+background-image: url("https://login.amaf.ae/Shared%20Documents/Image/Health.jpg");
+.endowment-block p { margin: 20px 0; font-size: 18px; }
+
+banner-info-block
+-------------------
+No Objection certificate or letter
+
+if (GetNewLocation.indexOf("SitePages/Payment-Application.aspx") == -1) {
+                this.changePageTitle();
+}
+
+
+<div className="btns">
+                      <a href={(this.state.Language == "English") ? URLs + "/goto?service=" + serviceid : URLs + "/goto?service=" + serviceid} className="btn apply-online-btn">{(this.state.Language == 'English') ? "APPLY ONLINE" : "يقدم طلب على الإنترنت"}</a>
+
+                   
+                    </div>
+--------------------------------------------------------------------------
+I will be Out of Office from 23-01 to 30-01 and have limited access to email, please expect a delay in response. Please contact Sugumaran (sugumaran.m@rapiddatatech.com) and/or Mohamed Abdelghaffar (mohamed.abdelghaffar@rapiddatatech.com) for urgent replies.
+(this.state.Language == 'arabic') ? document.title = this.state.subPageData.SubPageTitle_Ar : document.title = this.state.subPageData.SubPageTitle;
+--------------------------------------------------------------------------
+For security reasons, anonymous access is not supported in SharePoint online. The workaround is to use share and invite external users to visit the site.
+.projects-main-div .tag {
+    right: 0;
+}
+
+.Health-Projects .Project-grid-2 .tag {
+    right: 0;
+}
+ .byqVfcsGiNQ9m8Bsg?HT$cU?m-VyKW&
+
+direction: rtl
+
+65 - .Health-Projects .Project-grid-2 .tag {
+	right: auto!important;
+	left: 0;
+      }
+
+ public addlang() {
+        if (this.getCookie("selectedLanguage") == "arabic") {
+            var link = document.getElementById("#SelectedLangID");
+            link.setAttribute('href', '?language=ar');
+        } else {
+            var siteurlAr = window.location.href
+            siteurlAr = siteurlAr.replace("language=ar", "");
+        }
+    }
+Sharepoint Modern page 
+
+---------------------------------------------------------------
+To restrict access to the _vti_bin/Authentication.asmx path in SharePoint Server 2019 on-premises, you can follow these steps:
+
+Log in to the SharePoint server using an account with administrative privileges.
+
+Open Internet Information Services (IIS) Manager.
+
+Expand the server node and navigate to the SharePoint web application where you want to apply the restriction.
+
+Select the web application and double-click on the "Request Filtering" feature.
+
+In the Request Filtering pane, click on the "URLs" tab.
+
+Click on the "Add..." button in the Actions pane.
+
+In the "URL" field, enter _vti_bin/Authentication.asmx.
+
+Click on the "Request Filtering" feature at the top of the tree view.
+
+In the "Actions" pane, click on "Deny URL Sequence..." option.
+
+In the "URL Sequence" field, enter _vti_bin/Authentication.asmx.
+
+Click "OK" to apply the changes.
+
+Restart the Internet Information Services (IIS) service or perform an IIS reset for the changes to take effect.
+
+By following these steps, you should be able to restrict access to the _vti_bin/Authentication.asmx path in SharePoint Server 2019 on-premises.
+
+Please note that modifying IIS settings should be done by someone with the necessary permissions and understanding of the SharePoint environment. Take appropriate precautions, such as having a backup and testing changes in a non-production environment, before making any modifications.
+
+--------------------------------------------------------
+
+https://blog.sankalptaru.org/category/story/?gclid=EAIaIQobChMIzP7588Sb_AIVt5lmAh2djgKPEAAYAiAAEgIp2vD_BwE
+--------
+https://developer.salesforce.com/forums/?id=9060G0000005jSpQAI
+https://developer.salesforce.com/docs/component-library/bundle/lightning:accordion/example
+How to add break a string on toast container
+The projects under the AMAF every projects should have the same projects slide.
+
+
+ ADD Search credentials
+
+  username : nisha.yakub@rapiddatatech.com
+  password : Addsearch.123
+
+$('.breadcrumbs ul li:first').css("display", "none")
+            $('.project-lp-header .inner-banner .breadcrumbs ul li:not(:last-child):after').removeClass();
+يبحث
+يبحث
+
+https://login.amaf.ae/SitePages/Project-LP-1.aspx?projectID=EP-21-0000035&causeID=3 - House in paradise
+https://login.amaf.ae/SitePages/Project-LP-1.aspx?projectID=EP-21-0000034&causeID=2 - Waqf Qirtas
+https://login.amaf.ae/SitePages/Project-LP-1.aspx?projectID=EP-16-0000005&causeID=5 - Endowment Contribution
+https://login.amaf.ae/SitePages/Project-LP-1.aspx?projectID=EP-21-0000030&causeID=6 - Bread for all projects
+https://login.amaf.ae/SitePages/Project-LP-1.aspx?projectID=EP-22-0000037&causeID=5 - Charity Oasis Endowment
+
+https://www.classcentral.com/course/html-css-javascript-for-web-developers-4270 - Courses
+
+
+Got it! Unfortunately, no one is available at the moment. We will get back to you at nisha.yakub@rapiddatatech.com within one business day. 
+
+Let me know if there's anything else the team should know! 
+
+
+'تم إرسال الاستفسار وسوف نرسل إشعارا فيما بعد . تفاصيل الإتصال ( البريد الالإكتروني: info@amaf.gov.ae، الهاتف (97142808888)، الرقم المجاني :800692623).');
+
+var url = location.href.replace('/ar/','/en');
+ if (this.props.siteUrl.indexOf("/SitePages/Health.aspx?causeID=6") != -1) {
+           window.location.replace(this.props.siteUrl + "/SitePages/Centre-LP.aspx")
+         }
+
+These issues are from the Mendix side so please reach Mendix team for this bug.
+
+Bug #4998
+Bug #4957
+Bug #4943
+setState(value, set); Ex: ('Alt', 'King');
+https://www.c-sharpcorner.com/UploadFile/a9d961/how-to-enable-sign-in-as-different-user-option-in-sharepoint/
+https://social.technet.microsoft.com/Forums/en-US/0ede4cf4-0ce4-4bfb-89c4-3f9216c817db/how-to-sign-in-with-different-credentials-for-accessing-sharepoint-site-in-chrome-browser?forum=sharepointgeneral
+How to create two credentials for login in sharepoint
+https://www.sharepointdiary.com/2013/10/sign-in-as-different-user-in-sharepoint-2013.html
+https://codebeautify.org/remove-duplicate-lines
+
+1,279,072
+https://smallseotools.com/website-page-size-checker/
+https://gtmetrix.com/reports/amaf.gov.ae/vnNAJuXf/
+http://tracker.rapiddatatech.com/login
+https://beta.openai.com/playground
+https://replicate.com/schou/codeformer
+function modifyState() {
+            let stateObj = { id: "100" };
+            window.history.replaceState(stateObj,
+                "Page 3", "/answer#page3.html");
+        }
+cursor
+MxMendix
+Mendix!1
+the news section is updated with the latest news of house cause
+         
+        function remove_hash_from_url() {
+            var uri = window.location.toString();
+ 
+            if (uri.indexOf("#") > 0) {
+                var clean_uri = uri.substring(0, uri.indexOf("#"));
+ 
+                window.history.replaceState({},
+                        document.title, clean_uri);
+
+if ($('h2').is(':empty')) {
+                $('h2').remove();
+
+$(document).on('click','#selectedLangID', function(re){
+
+ let Urls = 'https://esvapps.amaf.ae/rest/happinesmeter/v1/GetHappinessMeter';
+        if (siteUrl.indexOf("login.amaf.ae") != -1) {
+            Urls = 'https://esvapps.amaf.ae/rest/happinesmeter/v1/GetHappinessMeter';
+        }
+        $.ajax({
+            url: Urls,
+
+amaf-services-on-intiatives - y
+Servicesoninitiative - n
+
+public langdata() {
+        var getlangurl = window.location.toString();
+        if (getlangurl.indexOf('#') > 0) {
+            var removehash = getlangurl.substring(0, getlangurl.indexOf("#"));
+            removehash = window.location.href.split('#')[0];
+        }
+    }
+ this.langdata();
+
+
+Endowment Affairs
+https://www.falconitservices.com/sharepoint-2019-and-sql-server-installation-step-by-step/
+http://ec2amaz-g490c1f/sites/App/_layouts/15/start.aspx#/AppCatalog/Forms/AllItems.aspx
+https://stackoverflow.com/questions/824349/how-do-i-modify-the-url-without-reloading-the-page/3354511#3354511
+.byqVfcsGiNQ9m8Bsg?HT$cU?m-VyKW&
+http://ec2amaz-g490c1f/
+contrast errors
+missing alt
+empty buttons
+empty links
+no labels
+
+<httpProtocol>
+      <customHeaders>
+         <add name="Access-Control-Allow-Origin" value="*" />
+        <add name="X-Content-Type-Options" value="nosniff" />
+        <add name="X-MS-InvokeApp" value="1; RequireReadOnly" />
+      </customHeaders>
+    </httpProtocol>
+------------------------------------------------------------------------------------------------------------------------------------
+
+If the webserver(IIS) getting error while installing - regedit.exe -> Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU  - UseWUServer Value (0).
+
+
+https://sharepoint.handsontek.net/2019/06/10/sharepoint-2019-setup-the-tool-was-unable-to-install-the-web-server-iss-role/
+
+compmgmt.msc 
+
+New button - For web application disabled - reinstall the Sharepoint product configuration and -> start -> Start configuration wizard
+
+Restore-SPSite http://ec2amaz-g490c1f/sites/amaf  -Path C:\Users\Administrator\Documents\backupfile-AMAF-07-July\backupfile-AMAF-07-July.bak
+
+Restore-SPSite http://amaf-spweb-uat2/ -Path C:\Sharepoint\backupfile-AMAF-07-July.bak -force
+Restore-SPSite http://amaf-spweb-uat2:39414  -Path C:\Sharepoint\backupfile-AMAF-07-July.bak -force
+
+Restore-SPSite https://amaf.rapiddatatech.com/  -Path C:\Sharepoint\backupfile-AMAF-07-July.bak -force
+
+Request to Leave Office Early due to Emergency
+
+Backup-SPSite http://amaf-spweb-uat2:28664/ -Path C:\Users\spsfarm\Documents\Sharepoint_Backup\Backup_File -NoSiteLock -force
+ Backup-SPSite https://www.amaf.gov.ae  -Path C:\Users\spsfarm\Documents\Sharepoint\BackUpfile\backupfile-AMAF-07-July.bak -force
+
+ Backup-SPSite https://www.awqafdubai.gov.ae  -Path C:\Users\spsfarm\Documents\Sharepoint\BackUpfile\backupfile-AMAF-07-July.bak -force
+
+
+Define Managed Paths -> Path ( / ) -> Add Path
+
+After Config of URL Mapping -> In IIS site binding on the port -> ipconfig -> ping 192.168.2.96 (ping outer of the server and check).
+firewall inbound outbound open -> https://docs.telerik.com/teststudio/automated-tests/performance/open-port-on-server
+80 port open
+ip outer nonaccesible 
+
+Event Viewer - For windows , Application logs -> Error logs
+Computer Management 
+After -> Domain pointing -> Mapping the domain name in SP Alternate Access Mapping -> Edit Public URLs
+For new theme bugs raised by awatef is fixed
+Every bugs has been fixed
+Windows defender and Firewall -> TCP -> Allow Connection - After upload the SSL with the Domain name in IIS and add it in Alternative Mapping with the same name and with the WebApplication Port . Then ping the IP Global and check it's in public.
+------------------
+Yes, running jobs in SharePoint Central Administration can increase disk activity on the server where SharePoint is installed.
+
+When a job runs, it may read or write data to various files and databases on the server. This can result in increased disk activity as the system retrieves and stores the data. The amount of disk activity will depend on the specific job being run, the size of the data being processed, and the performance characteristics of the server's hardware.
+
+It is important to monitor server performance while running jobs in SharePoint Central Administration to ensure that the server is not overwhelmed by the increased disk activity. If necessary, adjustments may need to be made to optimize the system's performance during job execution.
+---------------------------------
+
+AWS RDP Password - Rapid@1234
+This error occurs when the password for the managed account "RAPIDDATATECH\Administrator" that is stored in SharePoint is not the same as the current password for the account in Active Directory.
+
+To resolve this error, you can follow these steps:
+
+Open the SharePoint Management Shell as an administrator.
+
+Run the following command to get the current managed account:
+
+Get-SPManagedAccount -Identity "RAPIDDATATECH\Administrator"
+
+If the password stored in SharePoint is incorrect, you can run the following command to update it:
+
+Set-SPManagedAccount -UseExistingPassword -Identity "RAPIDDATATECH\Administrator"
+
+This command will update the password for the managed account to match the current password in Active Directory.
+
+After running the command, verify that the password for the managed account is updated by running the Get-SPManagedAccount command again.
+
+If the issue persists, you may need to check the synchronization between SharePoint and Active Directory to ensure that the passwords are kept in sync. Additionally, make sure that the account has the necessary permissions in SharePoint and Active Directory.
+-------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~
+Use the System File Checker tool to repair missing or corrupted system files -> CMD -> DISM.exe /Online /Cleanup-image /Restorehealth 
+
+C:\Windows\system32>DISM.exe /Online /Cleanup-image /Restorehealth
+
+Deployment Image Servicing and Management tool
+Version: 10.0.17763.3406
+
+Image Version: 10.0.17763.3887
+
+[==========================100.0%==========================] The restore operation completed successfully. 
+
+
+cmd -> sfc /scannow ---->[SFC] scan on the computer which will replace the missing or corrupt files & check if the issue persists.
+~~~~~
+
+Endowmen
+---------------------------------------------------------------------------------------------------
+
+ https://login.amaf.ae/_api/web/lists/getByTitle('Site%20Pages')/Items?$select=*&$filter=Arabic_x0020_Title%20eq%20%27%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%81%27
+
+https://amaf.gov.ae/_api/web/lists/getByTitle('Site%20Pages')/Items?$select=*&$filter=Title%20eq%20%27AMAF%20Home%27
+
+Title_Ar%20eq%20%27 - Production
+Arabic_x0020_Title - UAT Arabic_x0020_Title%20eq%20%27
+
+Button English <li class="language "><a href="#" id="SelectedLangID" class="arabic-language selectedLanguage" data-name="english" data-change-name="english">English</a></li>
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js
+
+
+Button Arabic <li class="language "><a href="#" id="SelectedLangID" class="arabic-language selectedLanguage" data-name="arabic" data-change-name="arabic">العربية</a></li>
+---------------------------------
+inetcpl.cpl - internet properties
+ncpa.cpl - Network Connection
+https://jsonformatter.org/
+----------------------------------
+خدمة أماف
+https://quillbot.com/
+useblockbox.io
+https://rytr.me/
+https://chat.openai.com/chat
+sketch2code
+https://monect.com/ - Connect Laptop to Mobile control
+----------------------------------
+cmd - nslookup login.amaf.ae 
+cmd - ipconfig/all 
+----------------------------------
+https://meet.google.com/obq-ogjn-jmd
+"search-web-part-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/searchWebPart/SearchWebPartWebPart.js",
+          "manifest": "./src/webparts/searchWebPart/SearchWebPartWebPart.manifest.json"
+        }
+      ]
+    },
+Arabic_x0020_Titl
+So 192.168.2.50 is the production gateway, and from it we access the production 172.16.145.20 Web and 172.16.145.36 App servers; if we change the web.config, we must update both, and if we can only change IIS. It appears that 172.16.145.20 will reflect on both.
+-----------------------------------------------------------------------------------------------
+Arabic title
+ let datas = await this.GetCall(siteUrl + "/_api/web/lists/getByTitle('Site%20Pages')/Items?$select=*&$filter=Arabic_x0020_Title%20eq%20%27" + encodeURIComponent(documentTitle) + '%27');
+
+console.log(data.Arabic_x0020_Title);
+                    if (data.Arabic_x0020_Title != null) {
+                        document.title = data.Arabic_x0020_Title;
+
+https://amaf.rapiddatatech.com/sites/App/_layouts/15/start.aspx#/AppCatalog/Forms/AllItems.aspx#InplviewHash56808e24-22fc-4c93-81e5-848799af0a71=WebPartID%3D%7B56808E24--22FC--4C93--81E5--848799AF0A71%7D
+file:///C:/Windows/Logs/DISM/dism.log - For windows all log files access
+ Server Access
+If issue occured while installing SP prerequistes
+https://learn.microsoft.com/en-us/answers/questions/112308/error-code-0x800f0954-on-windows-10
+
+
+ LhdBNKYvaxvTQ.=dJhLvQmVStiKI@F$&
+LhdBNKYvaxvTQ.=dJhLvQmVStiKI@F$&
+ 
+
+
+before i tried to install it's asked for a admin user and password for that najeeb changed for the admin as spsfarm user, now the issue is the current user is not adequate user rights to make changes to target computer.
+
+192.168.2.50
+MicrosoftSharePointTeamServices: 16.0.0.10337
+192.168.2.94
+lusrmgr.msc - AD check
+192.168.2.94
+Backup-SPSite https://login.amaf.ae/ -NoSiteLock -Path C:\Users\spsfarm\Downloads\backupfile-AMAF-07-July
+
+I have cheched with the existing server which Najeeb gaved , in that the sharepoint central Administration and product wizards is raising an error and the sql server is
+--------------
+if (GetNewLocation.indexOf("SitePages/Health.aspx") == -1) {
+        //     this.changePageTitle();
+        //     this.addMetaData();
+        //     console.log("HealthPage Working on Title");
+        // }
+        // const urlParams = new URLSearchParams(window.location.search);
+        // var projectid = urlParams.get('causeID');
+        // console.log("This is the project if" + projectid)
+        // if (selectedLanguage == 'arabic') {
+        //     if (projectid == '3') {
+        //         document.title = "الشؤون الإسلامية";
+        //     }
+        // } else {
+        //     document.title = "الشؤون الإسلامية";
+        // }
+--------------
+
+بحث
+https://amaf.rapiddatatech.com/sites/amaf/SitePages/Home.aspx
+----------------------------------------------------------------------------------------------------
+"SearchWebPartWebPartStrings": "lib/webparts/searchWebPart/loc/{locale}.js",
+-------
+
+/SitePages/Payment-Application.aspx?SubServiceID=EPD&ServiceID=2
+
+/SitePages/Payment-Application.aspx?SubServiceID=EPD&ServiceID=2&language=ar
+
+ncpa.cpl
+
+/SitePages/Payment-Application.aspx?SubServiceID=DN&ServiceID=2
+
+/SitePages/Payment-Application.aspx?SubServiceID=DN&ServiceID=2&language=ar
+
+Our Service -> Endowment -> Donations
+------------------------------------------------------------------
+
+npm install webpack ts-loader --save-dev
+------------------------------------------------
+
+import { override } from '@microsoft/decorators';
+ import { Log } from '@microsoft/sp-core-library';
+ import {
+   BaseApplicationCustomizer
+ } from '@microsoft/sp-application-base';
+ import { Dialog } from '@microsoft/sp-dialog';
+------------------------------------------------
+RegisterModuleInit("personalize.js", RemoteManager_Inject); //MDS registration
+RemoteManager_Inject(); //non MDS run
+---------------------------------------------------------------------------------
+
+https://www.moccae.gov.ae/en/home.aspx
+https://www.moe.gov.ae/Ar/Pages/home.aspx
+
+<script>
+function renderApp() {
+  document.getElementById("demo").innerHTML = "Welcome!";
+}
+
+function renderLogin() {
+  document.getElementById("demo").innerHTML = "Please log in";
+}
+
+let authenticated = true;
+
+authenticated ? renderApp() : renderLogin();
+
+</script>
+----------------------------------------------------------------------------------------------------------
+https://amaf.gov.ae/SitePages/Minors.aspx
+Difference between lastindexof vs indexof
+http://net-informations.com/js/iq/substr.htm
+https://www.mstsolutions.com/technical/sharepoint-rest-api/
+https://social.technet.microsoft.com/wiki/contents/articles/37948.sharepoint-framework-retrieve-and-display-sharepoint-list-items-using-rest-api-and-react-js.aspx
+http://www.ludovicperrichon.com/sharepoint-rest-api-call-with-powerautomate/
+
+
+https://www.tutorialrepublic.com/javascript-tutorial/javascript-cookies.php
+
+Props are used to pass data, whereas the state is for managing data. Data from props is read-only, and cannot be modified by a component that is receiving it from outside. State data can be modified by its own component, but is private (cannot be accessed from outside)
+
+class="toast animated bounceOut toast-success">
+ <div id="toast-top-right">
+               <button className='pop_print' onClick={this.Printnotify}>{(this.state.Language === "English") ? "Print" : "مطبعةs"}</button>
+               <ToastContainer/>
+                  </div> 
+
+https://amaf.gov.ae/SitePages/Project-LP-1.aspx
+https://amaf.gov.ae/SitePages/Payment-Application.aspx
+https://amaf.gov.ae/SitePages/Health.aspx
+
+
+<div><button className='pop_print' id='toast-container'>((selectedLanguage == "english") ? "Print" : "مطبعةs")</button></div>
+
+        <div id="toast-container">
+            <button className="pop_print"><a href="#"> + {(this.state.Language == 'English') ? "Print" : "طباعة"} </a></button>
+            </div>
+
+1260 * 450
+------------
+public PrintNotification(Message){
+    $('.pop_print').empty()
+    NotificationContainer.SuccessNotification(Message, (this.state.Language === 'English') ? 'print' : 'مطبعة',{
+    CloseButton: false
+  })
+}
+$('.pop_print').on('click', function(){
+                NotificationContainer.print();
+            })
+
+<div>
+        <button className="pop_print" id="ToastContainer">{(this.state.Language === 'English') ? 'Print' : 'مطبعة'}</button>
+    </div>
+
+public printnotify(Message){
+    $("#toast-container").empty()
+    $('.pop_print').onClick(print)
+    NotificationContainer.success(Message, (this.state.Language === 'English') ? 'Print' : 'مطبعة'),{
+      button : true
+    }
+  }
+class="toast animated bounceOut toast-success">
+----------------
+3705 211 50 179+ 
+ncpa.cpl
+
+SiteMap Alignment
+Vision & Mission Arabic Align
+
+         <div><p className='msg-title'><b>{(this.state.Language === 'English') ? this.state.LegislationData.Title : this.state.LegislationData.Title_Ar}</b></p></div>
+
+https://www.educba.com/
+https://sitechecker.pro/
+
+
+setTimeout(() => { $('#toast-container').empty(), location.reload(); }, 5000);
+
+https://login.amaf.ae/_api/web/lists/GetByTitle('News%20Section')/items?&select=*$orderby.desc
+https://amaf.gov.ae/sites/Apps/AppCatalog/Forms/AllItems.aspx
+
+RefLink
+
+.nabvar-right .extra-menu > a =>padding: 15px 10px;
+.navbar-menu .navlist > li > a {
+    padding: 25px 25px 25px 5px;
+}
+102.0.5005.115
+
+const App = () => {
+return (
+<>
+<Navbar/>
+<switch>
+<Route exact path = "/" component={Home}/>
+<Route exact path = "/about" component={About}
+<Redirect to = "/about"/>
+</switch>
+</>
+
+if(window.location.href == siteUrl+ '/SitePages/AMAF-Initiatives-&-Projects.aspx&language=ar')
+        {
+            window.location.replace=siteUrl+"/SitePages/Home.aspx";
+        }
+
+
+1,	https://login.amaf.ae/SharedDocuments/Forms/AllItems.aspx								404 NOT FOUND
+									
+2,	https://login.amaf.ae/_layouts/15/RecycleBin.aspx								401 NOT FOUND
+									
+3,	https://login.amaf.ae/SitePages/AMAF-Initiatives-&-Projects.aspx&language=ar								404 NOT FOUND
+									
+4,	https://login.amaf.ae/toast-top-right								404 NOT FOUND
+									
+5,	https://login.amaf.ae/SitePages/undefined/goto?service=RCM								404 NOT FOUND
+									
+6,	https://login.amaf.ae/SitePages/Minors.aspx 								Empty attribute 
+									
+	Connection Time-out Errors				NULL				
+									
+	Broken Link Errors				NULL				
+									
+	Scripting Errors				NULL				
+									
+	DNS Errors,				NULL				
+									
+	 500 Errors				NULL				
+									
+	505 Errors,				NULL				
+									
+	Socket Errors				NULL	
+
+gulp serve			
+
+ .help-section .d-flex .box h4 {
+--------------------------------
+القرهود- شارع مراكش
+شارع 1 متفرع من شارع رئيسي Z0
+مقابل مبنى برنامج الشيخ زايد
+للإسكان
+--------------------------------------------------
+
+https://nodejs.org/en/blog/release/v10.24.1/
+
+https://login.amaf.ae/sites/AppCatalog/AppCatalog/Forms/AllItems.aspx
+
+Backup-SPSite https://amaf.gov.ae/ -NoSiteLock -Path C:\backupfile-AMAF-07-July.bak
+https://services.amaf.gov.ae/p/donation/8162774324610739
+https://services.amaf.gov.ae/link/gotoDonationService?servicecode=EPD&programcode=
+
+https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh  
+------------------
+amaf\spsfarm
+@m@f$pf@rm22
+------------------
+https://login.amaf.ae/SitePages/Terms&Conditions.aspx
+<div class="col-sm-4 right-border">
+
+https://esvapps.amaf.ae/p/login - Mendix
+
+https://login.amaf.ae/Shared%20Documents/Image/BuildingCropped2.png       .... Media Gallery .......  MediaCenter
+/Shared%20Documents/Image/BuildingCropped2.png --English-- /SitePages/legislation.aspx --Arabic-- 	/SitePages/legislation?language=ar                     https://login.amaf.ae/SitePages/Vision.aspx
+ 
+ 
+writer.editor.GO_TO_TOPwriter.editor.GO_TO_BOTTOM
+
+تلقي آخر الأخبار والتحديثات والإشعارات الخاصة بالمبادرات والمشاريع المختلفة. - keep up to date with our newsletter
+515401
+https://login.amaf.ae/my/_layouts/15/ManageFeatures.aspx
+ 
+
+.text_85d78f61'
+Fuk95131
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PR26RSH');</script>
+------------------------------------
+@m@f$pf@rm22
+Asset Management 
+إدارة الأصول 
+/SitePages/AMAF-Service.aspx?ServiceID=6
+/SitePages/AMAF-Service.aspx?ServiceID=6&language=ar
+​-----------------------------------------------------
+
+if(this.getCookie("selectedLanguage") == 'english') {
+                alertmsg = "You are about to leave this site. You are being redirected to an external site. Would you like to leave this site?";
+            }
+                else if(this.getCookie("selectedLanguage") == 'arabic')
+                {
+                    alertmsg= 'أنت على وشك مغادرة هذا الموقع. يتم إعادة توجيهك إلى موقع خارجي. هل ترغب في مغادرة هذا الموقع؟';
+
+---------------------------------------------------------------------------------------------------------------
+
+ var alertmsgs = "You are about to leave this site. You are being redirected to an external site. Would you like to leave this site?";
+              console.log(this.state.Language);
+              if(this.getCookie("selectedLanguage") == 'english') {
+                alertmsgs = "You are about to leave this site. You are being redirected to an external site. Would you like to leave this site?";
+            }
+                else {
+                  alertmsgs= 'أنت على وشك مغادرة هذا الموقع. يتم إعادة توجيهك إلى موقع خارجي. هل ترغب في مغادرة هذا الموقع؟';
+                }
+----------------------------------------------------------------------------------------------------------------
+var AlertEnquiry = (this.state.Language == 'English') ? "You are about to leave this site. You are being redirected to an external site. Would you like to leave this site?" : "أنت على وشك مغادرة هذا الموقع. يتم إعادة توجيهك إلى موقع خارجي. هل ترغب في مغادرة هذا الموقع؟";
+
+-------------------------------------------------------------------------------------------------------------------
+
+  <div class="col-sm-3">
+               <div class="second-lvl">​<a href="/SitePages/Endowment.aspx?Service=2">ABOUT ENDOWMENT​</a></div>
+               <div class="second-lvl"> 
+                  <a href="/SitePages/How-to-Donate.aspx">HOW TO DONATE</a><br/></div>
+               <div class="second-lvl"> 
+                  <a id="changer"></a></div>
+            </div>
+         </div>
+         <hr/>​ ​​​
+
+<div class="second-lvl"> 
+                  <a href="/SitePages/AMAF-Initiatives-%26-Projects.aspx">DONATE NOW</a>​​​​​​<br/></div> 
+
+--------------------------------------------------------------------------------------------------------------
+
+
+   <a href="https://ecomplain.dubai.gov.ae/Faq.aspx" class="dynamicNewTab_english">https://ecomplain.dubai.gov.ae/Faq.aspx​</a>)​<br/></p>
+
+
+.contact-info .col-lg-4:nth-of-type(2){
+max-width:43%;
+flex: 0 0 43%
+}
+.contact-info .col-lg-4:nth-of-type(3){
+max-width:22%;
+flex: 0 0 22%
+}
+.enquiryFindUs .contact-info p {
+    font-size: 14px;
+}
+---------------------------------------------
+
+ابقى على تواصل معنا عبر مواقع التواصل الإجتماعي
+
+ابقى على تواصل معنا عبر -Stay in touch with us via
+مواقع التواصل الإجتماعي - Social media
+record panunga
+1366 768
+انستغرام 
+فيس بوك 
+
+LEGISLATION
+Legislation
+<div class="ExternalClass24B86E3703F544918F9E581471CE2A88">
+   <p>EN Final AML Law 20 - Reviewed MS 21-11-2018<span id="file_size">File size (0.59mb)</span></p> 
+   <a href="/Shared%20Documents/legislation_pdf/english/EN%20Final%20AML%20Law%2020%20-%20Reviewed%20MS%2021-11-2018.pdf">Download</a>​<br/></div>
+ابق على اتصال معنا
+في ملفاتنا الاجتماعية
+To be
+
+تم إجراء آخر تحديث بتاريخ 31-05-2022 في 2:36 م
+
+<a href="https://login.amaf.ae/SitePages/AMAF-Service.aspx?ServiceID=1">Inheritance </a>
+-----------------------------------------------------------------------------------------------
+I would like to inform you that my probation period is over. As you were aware of that, I am delighted to know that you have decided to elevate my status from probative to permanent, and as you assured me about putting a hike after the probation period I think you won't neglect the salary hike (Current CTC 3L) please acknowlege on this ...Thanking you
+
+For that only, we suspect latency and to clear the console errors, and most of the console errors are from server-side.
+And the WAVE tool will timeout after 30sec and it expects all the files and the API's should be run before the estimated sec on the WAVE.
+
+ only still modifying the codebase and Based on our analysis wave tool timeout after 30sec and it expects all the files like jquery, js, and CSS should be run before the estimated sec in the wave
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Published - تم النشر
+
+https://login.amaf.ae/SitePages/News.aspx -Redirect Url     READ MORE
+
+https://login.amaf.ae/SitePages/News.aspx - Re Url                قراءة المزيد
+
+---------------------------------------------------------------------------------------
+@media (min-width: 1200px){
+.header-bottom .container {
+    max-width: 1280px;
+}
+
+}
+
+.navbar-menu .navlist > li > a {
+    font-size: 15px;
+    padding: 25px 23px 25px 12px;
+}
+.nabvar-right .extra-menu > a {
+    font-size: 15px;
+}
+
+.nabvar-right .extra-menu a.btn-1.btn-primary-1 {
+    justify-content: center;
+    font-size: 15px;
+}
+
+
+https://www.dewa.gov.ae/en/
+---------
+Latest
+C:\Users\IT Admin>npm list -g --depth=0
+C:\Users\IT Admin\AppData\Roaming\npm
++-- @microsoft/generator-sharepoint@1.11.0
++-- gulp@3.9.1
++-- header@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\HeaderRapiddata
++-- slider@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\AmafIntranet
+`-- yo@3.1.0
+----------
+spfx - https://tutorialsinhand.com/tutorials/sharepoint-framework-spfx-tutorial/sharepoint-framework-extensions/create-helloworld-spfx-application-customizer.aspx
+
+--------------------------------------
+Latest update - 28/11/2023
+C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\AmafIntranet>npm list -g --depth=0
+C:\Users\IT Admin\AppData\Roaming\npm
++-- @microsoft/generator-sharepoint@1.18.0
++-- create-react-app@5.0.1
++-- gulp@4.0.2
++-- header@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\HeaderRapiddata
++--  error: ENOENT: no such file or directory, lstat 'C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\Keeper App
++-- npm@6.14.12
++-- search-web-part@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\SearchWebPart
++-- slider@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\AmafIntranet
+`-- yo@4.3.1
+
+npm audit fix - If you facing versions error
+Carousel - https://www.theultimateresources.com/2021/03/carousel-with-reactjs-and-spfx-in-10.html
+
+https://learn.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment
+npm list -g --depth=0
+https://nodejs.org/en/blog/release/v10.24.1/   (LTS) -> Long Term Support
+npm i npm@6.14.13
+C:\Users\admin\AppData\Roaming\npm
+npm install -g
+npm i yo@3.1.1 -g          npm i yo@4.3.0 -g  npm i yo@3.1.0
+npm i gulp@4.0.2 -g
+npm i @microsoft/generator-sharepoint@1.11.0 -g
+yo @microft/sharepnt
+
+gulp trust-dev-cert - Certificate
+gulp serve
+ctrl+c
+C:\SharepointSpfx>npm -v
+6.14.12
+C:\SharepointSpfx>node -v
+v10.24.1
+
+https://techcommunity.microsoft.com/t5/sharepoint/organizational-assets-office-templates-not-showing-in-office/m-p/1413544
+https://sharepointstuff.com/2021/03/30/useful-sharepoint-urls/
+
+C:\Users\arunf>npm list -g --depth=0
+C:\Users\arunf\AppData\Roaming\npm
++-- @microsoft/generator-sharepoint@1.11.0
++-- eslint@8.24.0
++-- generator-webapp@4.0.0-8
++-- gulp@4.0.2
++-- webpack@5.74.0
++-- webpack-cli@4.10.0
+`-- yo@3.1.0
+
+C:\SharepointSpfx>npm list -g --depth=0
+C:\Users\arunf\AppData\Roaming\npm
++-- @microsoft/generator-sharepoint@1.17.4
++-- create@0.0.2
++-- eslint@8.24.0
++-- generator-webapp@4.0.0-8
++-- gulp@4.0.2
++-- header@0.0.1 -> C:\Users\arunf\OneDrive\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\HeaderRapiddata
++-- react-app@1.1.2
++-- search-web-part@0.0.1 -> C:\Users\arunf\OneDrive\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\SearchWebPart
++-- slider@0.0.1 -> C:\Users\arunf\OneDrive\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\AmafIntranet
++-- webpack@5.74.0
++-- webpack-cli@4.10.0
+`-- yo@4.3.1
+
+https://www.iis.net/downloads/microsoft/iis-cors-module
+
+================================================
+20/02/2024m working
+
+C:\Users\IT Admin>npm list -g --depth=0
+C:\Users\IT Admin\AppData\Roaming\npm
++-- @microsoft/generator-sharepoint@1.11.0
++-- create-react-app@5.0.1
++-- gulp@4.0.2
++-- header@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\HeaderRapiddata
++-- npm@6.14.12
++-- search-web-part@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\SearchWebPart
++-- slider@0.0.1 -> C:\Users\IT Admin\OneDrive - Rapiddata technologies\Documents\GitHub\Nisha_Rapiddata_SharePoint\Source Code\AmafIntranet
+`-- yo@3.1.1
+
+
+============================================================
+import React, { Component } from 'react';
+
+class NewsSection extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      NewsSectionData: [],
+      NewsSections: [],
+      searchQuery: ''
+    };
+    this.getNewsSection = this.getNewsSection.bind(this);
+    this.handleSearchInputChange = this.handleSearchInputChange.bind(this);
+  }
+
+  componentDidMount() {
+    this.getNewsSection();
+  }
+
+  getNewsSection() {
+    $.ajax({
+      url: this.props.siteURL + "/_api/web/lists/GetByTitle('News Section')/items?$select=Title,Title_Ar,Description_En,Description_Ar,Redirect_Url_En,Redirect_Url_Ar,Image,NewsDate,ID&$orderby=NewsDate desc",
+      method: "GET",
+      headers: {
+        "Accept": "application/json;odata=verbose",
+        "If-Match": "*"
+      },
+      success: (data) => {
+        this.setState({ NewsSectionData: data.d.results, NewsSections: data.d.results });
+      },
+      error: (data) => {
+        console.log(JSON.stringify(data));
+      }
+    });
+  }
+
+  handleSearchInputChange(event) {
+    const query = event.target.value;
+    const filteredNews = this.filterNewsByQuery(query);
+    this.setState({ NewsSections: filteredNews, searchQuery: query });
+  }
+
+
+
+  filterNewsByQuery(query) {
+    const { NewsSectionData } = this.state;
+    return NewsSectionData.filter((news) =>
+      news.Title.toLowerCase().includes(query.toLowerCase()) ||
+      news.Description_En.toLowerCase().includes(query.toLowerCase())
+    );
+  }
+
+  render() {
+    const { NewsSections, searchQuery } = this.state;
+
+    return (
+      <div>
+        <input type="text" placeholder="Search news" value={searchQuery} onChange={this.handleSearchInputChange} />
+        <ul>
+          {NewsSections.map((news) => (
+            <li key={news.ID}>
+              <h3>{news.Title}</h3>
+              <p>{news.Description_En}</p>
+              <img src={news.Image} alt={news.Title} />
+            </li>
+          ))}
+        </ul>
+      </div>
+    );
+  }
+}
+
+export default NewsSection;
+
+(this.state.Language == 'English') ?
+        this.setState({ NewsSections: this.state.NewsSectionData.filter(news => news.Title.toLowercase().includes(query.toLowerCase())) })
+        :
+        this.setState({ NewsSections: this.state.NewsSectionData.filter(news => news.Title_Ar.toLowerCase().includes(query.toLowerCase())) })
+      //     NewsSectionData.filter((news) =>news.Title.toLowerCase().includes(query.toLowerCase()) ||
+      //   news.Description_En.toLowerCase().includes(query.toLowerCase())
+      // );
+    } else {
+      this.setState({ NewsSections: this.state.NewsSectionData });
+    }
+--------------------------------------------------------
+This code appears to be written in TypeScript and uses ReactJS syntax. It defines a JSX element with a className attribute of "col-lg-8 col-sm-6", which suggests that it's part of a larger grid layout system. Inside this element, there's a conditional statement that checks whether the NewsSectionData state variable has any data. If there is data, it selects the first item in the array (using the array slice method), and maps over it using the Array.prototype.map() method.
+
+Inside the map function, there are several calculations being performed. It first creates a new Date object for today's date, then creates another Date object based on the NewsDate property of the current news item. It then calculates the difference in time between these two dates, in days.
+
+Next, it formats the date using the moment.js library, either in English or Arabic depending on the current value of the Language state variable. It also sets a string variable called "latest" to either "Published date |" in English or "تاريخ النشر |" in Arabic, depending on the language.
+
+Finally, there's another conditional statement that checks whether the news item is newer than today's date. If it is, it sets the "latest" variable to the appropriate string for the current language. If it's not, it sets "latest" to the same string as before.
+
+It's likely that this code is part of a larger React component that displays news articles or blog posts, with the first item in the NewsSectionData array being displayed in a larger format than the rest.
+
+---------------
+
+This TypeScript code is a part of a React component, and it performs several calculations related to dates. Here's a breakdown of what each line does:
+
+var today = new Date(new Date().getFullYear(), new Date().getMonth(), new Date().getDate()); - creates a new Date object representing today's date. This is created by using the new Date() constructor, with the current year, month, and day obtained using the getFullYear(), getMonth(), and getDate() methods respectively.
+
+var newsdate = new Date(val.NewsDate.split('T')[0].split('-')[0], val.NewsDate.split('T')[0].split('-')[1] - 1, val.NewsDate.split('T')[0].split('-')[2]); - creates a new Date object representing the news article's publication date. This is created by extracting the year, month, and day from the NewsDate property of the val object, which is expected to be in the format of "YYYY-MM-DD". The split() method is used to extract each part of the date, and the resulting values are used to create a new Date object.
+
+var Difference_In_Time = today.getTime() - newsdate.getTime(); - calculates the difference in milliseconds between today's date and the news article's publication date. This is done by calling the getTime() method on both today and newsdate objects, and then subtracting the latter from the former.
+
+var Difference = (Difference_In_Time / (1000 * 3600 * 24)); - converts the difference in milliseconds to days. This is done by dividing Difference_In_Time by the number of milliseconds in a day (1000 * 3600 * 24).
+
+`var date = (this.state.Language === 'English') ? moment(val
+
+
+
+<a href="#" data-toggle="modal" data-target="#mine-performance"><img style='position: fixed; bottom: 0px; width: 50px; height: 50px; z-index: 99; left: 60px;' id="chat-btn" src="` + require("./loc/images/suggest.png") + `" alt="suggest"></a>
+            
+                    <div class="modal fade video-modal" id="mine-performance" tabindex="-1" role="dialog" aria-labelledby="videoModal"
+                aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <button type="button" class="close btn-04" data-dismiss="modal" aria-hidden="true" style="color:black !important;">&times;</button>
+                            <div>
+                                <iframe width="100%" height="507" src=` + (selectedLanguage == "english" ? "https://04.gov.ae/case-generate?entity=a7f2f61a-bc06-ec11-b6e5-0022486fc780&lang=en" : 'https://04.gov.ae/case-generate?entity=a7f2f61a-bc06-ec11-b6e5-0022486fc780&lang=ar') + ` frameborder="0"
+                                    allowfullscreen> </iframe>
+                    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+---------------
+<div class="ExternalClass65AE9A2891DA4C0BA635AF1D9C2696AC">
+   <p>
+      <strong></strong></p>
+</div>
+<div>
+   <strong>5 Business Days</strong></div>
+<div>In case of cash payments<br/></div>
+<div>
+   <div>
+      <strong>11&#160;Business Days​</strong></div>
+   <div>In case of cheque payments<strong>​</strong></div>
+   <div>
+      <br/>​<br/></div>
+</div>
+---------
+Document
+<div class="ExternalClass08F1B932D6A14782A42619667AF0D550">
+   <div class="row">
+      <div class="col-sm-6">
+         <h4>Documents required </h4>
+         <ul>
+            <li>ID card (if not provided already)<br/></li>
+            <li>Detailed report on the revenues and expenditures, with the relevant 
+               <br/></li>
+            <li>documents enclosed 
+               <br/></li>
+         </ul> ​​​​​ </div>
+      <div class="col-sm-6">
+         <h4>Who is eligible to apply </h4>
+         <p>- Individuals​​​​​​​​​​​<br/></p>
+      </div>
+   </div>
+</div>​<br/>
+----------------
+
+
+
+
+one working day
+according to schedule
+checks
+---
+The identity of the beholder /endower (original copy )
+the passport of beholder /endower (copy)
+
+the Real estate management documents (lease contracts - maintenance ) (copy)
+--
+هوية الناظر / الواقف ( الأصل)
+جواز سفر الناظر / الواقف (صورة)
+مستندات إدارة العقار(عقود الإيجالر - الصيانة) (صورة)
+----
+
+Step 1: Determining the payments according to the beholder-endower contract (Endowment Causes department)
+Step2: Supply of amounts in the endowment system (Customer Service department)
+Step3 : Collection of amounts distributed in banks (Revenue department)
+
+----
+
+
+تحديد الدفعات حسب  عقد الناظر- الواقف ( قسم المصارف الوقفية)
+
+توريد المبالغ في نظام  الوقف (قسم خدمة المتعاملين) 
+تحصيل المبالغ و توزيعها في المصارف (قسم الإيرادات)
+-----------------
+
+const currentURL = window.location.href;
+
+    // if (currentURL.includes(this.state.Language == 'English' ? this.props.siteurl + "/SitePages/Payment-Application.aspx?SubServiceID=VMS&ServiceID=1" : this.props.siteurl + "/SitePages/Payment-Application.aspx?SubServiceID=VMS&ServiceID=1?language=ar")) {
+    //   const newURL = currentURL.replace(this.props.siteurl + "/SitePages/Payment-Application.aspx?SubServiceID=VMS&ServiceID=1", (this.state.Language == 'English') ? "https://esvapps.amaf.ae/link/goto?service=VMS&Lang=en" : "https://esvapps.amaf.ae/link/goto_ar?service=VMS&Lang=ar");
+    //   window.location.href = newURL;
+    // }
+    if (this.state.Language == "English") {
+      if (currentURL == this.props.siteurl + "/SitePages/Payment-Application.aspx?SubServiceID=VMS&ServiceID=1") {
+        const newURL = currentURL.replace(currentURL, "https://services.awqafdubai.gov.ae/link/goto?service=VMS&Lang=en")
+        window.location.href = newURL;
+      }
+
+    }
+    else {
+      if (currentURL == this.props.siteurl + "/SitePages/Payment-Application.aspx?SubServiceID=VMS&ServiceID=1&language=ar") {
+        const newURL = currentURL.replace(currentURL, "https://services.awqafdubai.gov.ae/link/goto_ar?service=VMS&Lang=ar")
+        window.location.href = newURL;
+      }
+
+    }
+---------------------------
+// Iframe
+        // SPComponentLoader.loadCss(
+        //     "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        // );
+        // SPComponentLoader.loadCss(
+        //     "https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"
+        // );
+        // SPComponentLoader.loadCss(
+        //     "https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        // );
+        // SPComponentLoader.loadCss(
+        //     "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        // );
+---------------------------------------
+ @override
+    public async onInit(): Promise<void> {
+        let ref: any = [];
+        ref = document.querySelectorAll("div[aria-labelledby]");
+        let all = [...ref];
+        let arr = all.map((e) => e);
+        $(function () {
+            arr.forEach((e, index) => {
+                e.removeAttribute("id");
+            });
+
+            arr.forEach((e, index) => {
+                e.removeAttribute("data-drag-tag");
+            });
+
+            arr.forEach((e, index) => {
+                e.removeAttribute("data-automation-id");
+            });
+
+            arr.forEach((e, index) => {
+                e.removeAttribute("data-sp-a11y-id");
+            });
+
+            // arr.forEach((e, index) => {
+            //     e.removeAttribute("aria-labelledby");
+            // });
+
+            // arr.forEach((e, index) => {
+            //     e.removeAttribute("aria-labelledby='cswpAccessibleLabelContextual'");
+            // });
+
+            // $(document).ready(function () {
+            // prevent scrolling up after closing iframe
+            //     $('#mine-performance').on('hidden.bs.modal', function () {
+            //         $('body').removeClass('modal-open');
+            //         $('.modal-backdrop').remove();
+            //     });
+            // });
+
+            // if ($('h2').is(':empty')) {
+            //     $('h2').remove();
+            // }
+            // if ($('h1').is(':empty')) {
+            //     $('h1').remove();
+            // }
+            // if ($('h1.pagename').is(':empty')) {
+            //     $('h1.pagename').remove();
+            // }
+
+            console.log("function ready!");
+
+        });
+------------------------------------------------------------------
+
+return (
+      <div className="amaf-staticpage">
+        {/* {this.state.OurStory.map((val, key) =>{ */}
+              {/* return( */}
+                <div>
+                  <div className="headerimage laws-head"  style={{backgroundImage: `url(${require('../components/image/BannerImage.png')})`,height: "240px",width: "100%",display: "flex",backgroundRepeat: "no-repeat",backgroundSize: "cover",position: "relative",paddingBottom: "40px"}}>
+                      <div className="container">
+                        <h1 className="pagename">{(this.state.Language == "English") ? this.state.OurStory.Title : this.state.OurStory.Title_Ar}</h1>
+                      </div>
+                  </div>
+                    <div className="mediacentermaindiv" style={{ backgroundColor: "#E9E9E9", padding: "15px" }}>
+                         <p dangerouslySetInnerHTML={{ __html:(this.state.Language == "English") ? this.state.OurStory.Description : this.state.OurStory.Description_Ar }}></p>
+                    </div>
+                </div>
+              {/* ) */}
+            {/* })} */}
+            
+          </div>
+      
+      
+    );
+  }
+-------------------------------------
+import * as React from 'react';
+import styles from './NewSliderFoot.module.scss';
+import { INewSliderFootProps, INewSliderFootState } from './INewSliderFootProps';
+import { escape } from '@microsoft/sp-lodash-subset';
+
+export default class NewSliderFoot extends React.Component<INewSliderFootProps,INewSliderFootState > {
+  public constructor(props: INewSliderFootProps, State: INewSliderFootState){
+    super(props)
+    this.state = {
+
+    }
+  }
+  
+  public render(): React.ReactElement<INewSliderFootProps> {
+    return(
+      <div style={{display: 'flex', justifyContent: 'space-between', width: '100%',}}>
+      <div style={{flex: 1, backgroundColor: 'gray',    padding: '20px',    borderRadius: '10px',    boxShadow: '0 0 5px rgba(0, 0, 0, 0.3)'}}>
+        <h2 style={{ margin: 0, paddingBottom: '10px' }}>Branding</h2>
+        <p>When you brand a SharePoint hub site, you can set it so the site branding is applied to any sites that associate with it. This includes any site theme or site template used by the hub site. </p>
+      </div>
+      <div style={{flex: 1,    backgroundColor: 'gray',    padding: '20px',    borderRadius: '10px',    boxShadow: '0 0 5px rgba(0, 0, 0, 0.3)'}}>
+        <h2 style={{ margin: 0, paddingBottom: '10px' }}>Classic</h2>
+        <p>Below is a summary of the differences between branding a site in the classic experience vs. branding in the modern SharePoint experience.</p>
+      </div>
+      <div style={{flex: 1,    backgroundColor: 'gray',    padding: '20px',    borderRadius: '10px',    boxShadow: '0 0 5px rgba(0, 0, 0, 0.3)'}}>
+        <h2 style={{ margin: 0, paddingBottom: '10px' }}>Before you begin</h2>
+        <p>Do you need a consistent brand across all sites or will different divisions, departments, or groups in your organization have their own.</p>
+      </div>
+    </div>
+    );
+  }
+}
+-----------------------------------
+
+I hope this message finds you well. I am writing to request a change in the existing domain for our Live Chat plugin. Currently, our website is hosted on the domain "amaf.gov.ae," and we would like to transition to the new domain "awqafdubai.gov.ae." This change is essential for our organization as we have rebranded and made some structural modifications to our web presence.
+
+
+
+
+I hope this email finds you well. I am writing to request assistance with changing our existing domain to a new domain for our website in LiveChat. 
+
+Current Domain: [https://amaf.gov.ae] 
+New Domain: [https://awqafdubai.gov.ae] 
+
+License No - 13486917. Change the main domain as to awqafdubai.gov.ae 
+
+If there are specific steps we need to take or any documentation you require from our end to facilitate the domain change, please let us know. We want to ensure a seamless transition with minimal disruption to our online services. 
+
+Your prompt attention to this matter would be greatly appreciated. We rely on your support and expertise to execute this transition smoothly. 
+
+Thank you for your assistance in advance. We look forward to hearing from you and working together to successfully complete this domain change. 
+
+--------------------------
+// Create an observer instance.
+            var observer = new MutationObserver(function (mutations) {
+                $(".highlight").each(function (index, element) {
+                    var $this = $(this);
+                    var highLightContent = $(this).html();
+                    var result = highLightContent.match(/<em>(.*?)<\/em>/g);
+                    $.each(result, function (key, value) {
+                        var a = value;
+                        var filterTxt = a.replace("<em>", "");
+                        filterTxt = filterTxt.replace("</em>", "");
+                        var b = $("#searchfield-container input").val();
+                        var regex = new RegExp(b, "gi");
+                        var getc = filterTxt.replace(regex, "<em>" + b + "</em>");
+                        highLightContent = highLightContent.replace(value, getc);
+                    });
+                    $this.html(highLightContent);
+                });
+            });
+
+            // Pass in the target node, as well as the observer options.
+            observer.observe(target, {
+                attributes: true,
+                childList: true,
+                characterData: true,
+            }); 
+---------------------------------------------------------------------------------------------------------------
+
+I am writing this email to inform you that I successfully completed one full year in our organization. It has been an honour to work in such a great organization as Rapiddata Technologies, and I am grateful to have the opportunity to do so.
+
+I feel that I have grown professionally in the past year and that I have been able to make a positive contribution to the organization. I have learned great technical knowledge.
+
+And I've been working alone on SharePoint and React js for the last few months, and I'm currently handling SharePoint AMAF UAT, Production, and an AWS New theme environment, and I'm excited to continue contributing to the organization in the future.
+
+I am looking forward to having my performance reviewed and discussed at the upcoming appraisal. I am confident that I have lived up to the expectations of the organization and I am eager to receive feedback about my performance.
+
+Thank you once more for the opportunity, and I eagerly await your response.
+
+
+On the initial state, I have set the set timeout method to hide  which same as the site loader time of the web part 
+
+
+I have set the body tag web part to hide the entire content after the loader 
+Previosly the content shows before the loader now we setted the 
+I have set the hide method on every web part which shows the content before load and after the loader completes the settimeout method will allow the content visible. 
+
+On the initial state, we have set the webpart content to show after the loader with the use of timeinterval method on every web part which shows the content before load then after the loader time completes the same equal time i have set to  settimeout method will allow the content visible on the webpage. used functionality will wont affect anything on our site.
+
+On the initial state, we have set the body element hide as the loader time and it will release the webpart contents after the loader completes ,used timeinterval method to show the webpart contents after the loader.and some react Funtionality to make the proper implementation on it
+
+-------
+Enterprise Keyword
+Dubai Awqaf; Endowment And Minors’ Trust Foundation; Endowments; endowment registration; Affairs; Awqaf Dubai; Property; استشارات الوقف والهبة; خبز السبيل; endowment developments; تنمية الأصول; تبرع; Ishhad; Awqaf; اوقاف مستدامة; MBRGCEC; الأوقاف; bread for all; أوقاف دبي; waqf; اشهاد وقفي; Foundation; مساهمة وقفية; مؤسسة الأوقاف وشؤون القصر; أمآف; minors; Donation; Inheritance; Endowment; 
+
+Endowment And Minors’ Trust Foundation, Awqaf, Minors, Affairs, Foundation, Endowments, Property, Minors, AWQAF, inheritance, endowment developments, Dubai Awqaf, MBRGCEC, waqf, Donation, Ishhad, bread for all, endowment, Awqaf Dubai, awqaf dubai, endowment registration,
+مؤسسة الأوقاف وشؤون القصر , الأوقاف , أمآف, تبرع, مساهمة وقفية, اوقاف مستدامة, خبز السبيل, اشهاد وقفي, استشارات الوقف والهبة, تنمية الأصول, أوقاف دبي
+
+Endowment And Minors’ Trust Foundation (AWQAF) website is an online channel for service related to endowments (AWQAF) management and minor's inheritance and assets management, including endowment donation, endowment program contributions
+
+الموقع الالكتروني لمؤسسة الأوقاف وشؤون القصر يعد القناة الالكترونية والبوابة لكل الخدمات الخاصة بإدارة الأوقاف واصول التركات الخاصة بالقصر في امارة دبي وتتضمن خدمات التبرعات الوقفية , المساهمة في البرامج الوقفية , والتسجيل والاشهاد الوقفي , رؤية المؤسسة ه
+
+رؤية
+
+
+
+I am writing to bring to your attention an issue we are currently facing with the SSL certificate in our UAT environment.
+
+Upon attempting to renew the SSL certificate, we encountered an unexpected error, and we are unable to proceed with the renewal process. The error message simply states, "Sorry, something went wrong
+
+------------------------
+
+https://www.awqafdubai.gov.ae/SitePages/Home.aspx
+https://www.awqafdubai.gov.ae/SitePages/About-AMAF.aspx
+https://www.awqafdubai.gov.ae/SitePages/AMAF-Initiatives-&-Projects.aspx
+https://www.awqafdubai.gov.ae/SitePages/Endowment.aspx?ServiceID=2
+https://www.awqafdubai.gov.ae/SitePages/Inheritance.aspx?Service=1
+https://www.awqafdubai.gov.ae/SitePages/OurServices.aspx
+https://www.awqafdubai.gov.ae/SitePages/Contact-Us.aspx
+https://www.awqafdubai.gov.ae/SitePages/OurStory.aspx
+https://www.awqafdubai.gov.ae/SitePages/Structure.aspx
+https://www.awqafdubai.gov.ae/SitePages/Vision.aspx
+https://www.awqafdubai.gov.ae/SitePages/Governance.aspx
+https://www.awqafdubai.gov.ae/SitePages/Strategy.aspx
+https://www.awqafdubai.gov.ae/SitePages/Government-Plans.aspx
+https://www.awqafdubai.gov.ae/SitePages/OurLeadership.aspx
+https://www.awqafdubai.gov.ae/SitePages/Secretary-General-Foreword.aspx
+https://www.awqafdubai.gov.ae/SitePages/Legislation.aspx
+https://www.awqafdubai.gov.ae/SitePages/Health.aspx?causeID=1
+https://www.awqafdubai.gov.ae/SitePages/Health.aspx?causeID=2
+https://www.awqafdubai.gov.ae/SitePages/Health.aspx?causeID=3
+https://www.awqafdubai.gov.ae/SitePages/Health.aspx?causeID=4
+https://www.awqafdubai.gov.ae/SitePages/Health.aspx?causeID=5
+https://www.awqafdubai.gov.ae/SitePages/AMAF-Service.aspx?ServiceID=2
+https://www.awqafdubai.gov.ae/SitePages/Payment-Application.aspx?SubServiceID=EPD&ServiceID=2
+https://www.awqafdubai.gov.ae/SitePages/Payment-Application.aspx?SubServiceID=ISR&ServiceID=2
+https://www.awqafdubai.gov.ae/SitePages/Endowment.aspx?ServiceID=2
+https://www.awqafdubai.gov.ae/SitePages/How-to-Donate.aspx
+https://www.awqafdubai.gov.ae/SitePages/AMAF-Service.aspx?ServiceID=2
+https://www.awqafdubai.gov.ae/SitePages/Inheritance.aspx?ServiceID=1
+https://www.awqafdubai.gov.ae/SitePages/AMAF-Service.aspx?ServiceID=8
+https://www.awqafdubai.gov.ae/SitePages/Payment-Application.aspx?SubServiceID=RCM&ServiceID=8
+https://www.awqafdubai.gov.ae/SitePages/AMAF-Service.aspx?ServiceID=8
+https://www.awqafdubai.gov.ae/SitePages/FAQs.aspx
+https://www.awqafdubai.gov.ae/SitePages/Suggestions.aspx
+https://www.awqafdubai.gov.ae/SitePages/SiteMap.aspx
+https://www.awqafdubai.gov.ae/SitePages/Privacy-Policy.aspx
+https://www.awqafdubai.gov.ae/SitePages/Terms&Conditions.aspx
+-----------------------------------------------------------------------------------------
+<div class="gov-popup">
+            <img class="iframe-icon" data-toggle="modal" data-target="#04-gov-ae" id="chat-btn" src="` + require("./loc/images/suggest.png") + `" alt="suggest">
+            </div>
+              <div class="modal fade video-modal" id="04-gov-ae" tabindex="-1" role="dialog">
+                     <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <button type="button" class="close btn-04" data-dismiss="modal">&times;</button>
+                            <iframe class="iframe-gov" aria-label="ReDirecttoExternalsite" title="RedirecttoExternalGovernmentSite" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen" src=` + (selectedLanguage == "english" ? "https://04.gov.ae/case-generate?entity=a7f2f61a-bc06-ec11-b6e5-0022486fc780&lang=en" : 'https://04.gov.ae/case-generate?entity=a7f2f61a-bc06-ec11-b6e5-0022486fc780&lang=ar') + ` scrolling="no" style=""></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+--------------------------------------------------------------------------------------------
+https://www.awqafdubai.gov.ae/Home
+https://www.awqafdubai.gov.ae/About-AMAF
+https://www.awqafdubai.gov.ae/OurStory
+https://www.awqafdubai.gov.ae/Structure
+https://www.awqafdubai.gov.ae/Vision
+https://www.awqafdubai.gov.ae/Governance
+https://www.awqafdubai.gov.ae/Strategy
+https://www.awqafdubai.gov.ae/Government-Plans
+https://www.awqafdubai.gov.ae/OurLeadership
+https://www.awqafdubai.gov.ae/Secretary-General-Foreword
+https://www.awqafdubai.gov.ae/Legislation
+https://www.awqafdubai.gov.ae/Contact-Us
+https://www.awqafdubai.gov.ae/Endowment?ServiceID=2
+https://www.awqafdubai.gov.ae/AMAF-Initiatives-&-Projects
+https://www.awqafdubai.gov.ae/Health?causeID=1
+https://www.awqafdubai.gov.ae/Health?causeID=2
+https://www.awqafdubai.gov.ae/Health?causeID=3
+https://www.awqafdubai.gov.ae/Health?causeID=4
+https://www.awqafdubai.gov.ae/Health?causeID=5
+https://www.awqafdubai.gov.ae/AMAF-Service?ServiceID=2
+https://www.awqafdubai.gov.ae/Endowment?ServiceID=2
+https://www.awqafdubai.gov.ae/How-to-Donate
+https://www.awqafdubai.gov.ae/AMAF-Initiatives-&-Projects
+https://www.awqafdubai.gov.ae/Inheritance?Service=1
+https://www.awqafdubai.gov.ae/AMAF-Service?ServiceID=8
+https://www.awqafdubai.gov.ae/OurServices
+https://www.awqafdubai.gov.ae/AMAF-Service?ServiceID=2
+https://www.awqafdubai.gov.ae/Suggestions
+https://www.awqafdubai.gov.ae/FAQs
+https://www.awqafdubai.gov.ae/SiteMap
+https://www.awqafdubai.gov.ae/Privacy-Policy
+https://www.awqafdubai.gov.ae/Terms&Conditions
+https://www.awqafdubai.gov.ae/NewsAndEvents
+https://www.awqafdubai.gov.ae/News
+https://www.awqafdubai.gov.ae/Home?language=ar
+https://www.awqafdubai.gov.ae/About-AMAF?language=ar
+https://www.awqafdubai.gov.ae/OurStory?language=ar
+https://www.awqafdubai.gov.ae/Structure?language=ar
+https://www.awqafdubai.gov.ae/Vision?language=ar
+https://www.awqafdubai.gov.ae/Governance?language=ar
+https://www.awqafdubai.gov.ae/Strategy?language=ar
+https://www.awqafdubai.gov.ae/Government-Plans?language=ar
+https://www.awqafdubai.gov.ae/OurLeadership?language=ar
+https://www.awqafdubai.gov.ae/Secretary-General-Foreword?language=ar
+https://www.awqafdubai.gov.ae/Legislation?language=ar
+https://www.awqafdubai.gov.ae/Endowment?ServiceID=2&language=ar
+https://www.awqafdubai.gov.ae/AMAF-Initiatives-&-Projects?language=ar
+https://www.awqafdubai.gov.ae/Health?causeID=1&language=ar
+https://www.awqafdubai.gov.ae/Health?causeID=2&language=ar
+https://www.awqafdubai.gov.ae/Health?causeID=3&language=ar
+https://www.awqafdubai.gov.ae/Health?causeID=4&language=ar
+https://www.awqafdubai.gov.ae/Health?causeID=5&language=ar
+https://www.awqafdubai.gov.ae/Endowment?ServiceID=2&language=ar
+
+
+SPComponentLoader.loadCss(
+                "https://happinessmeter.dubai.gov.ae/HappinessMeter2/source/jquery.fancybox.css?v=2.1.5"
+            );
+            SPComponentLoader.loadCss(
+                "https://f1-as.readspeaker.com/script/6427/ReadSpeaker.Styles.css?v=2.5.16.6672"
+            );
+            SPComponentLoader.loadCss(
+                "https://www.awqafdubai.gov.ae/_layouts/15/1033/styles/SuiteNav.css?rev=Uxcbog955XCjhkCkuXh5tQ%3D%3DTAG0"
+            );
+            SPComponentLoader.loadCss(
+                "https://cdn-as.readspeaker.com/script/6427/webReader/r/r2489/ReadSpeaker.Styles-Button.css?v=3.8.2.2489"
+            );
+            SPComponentLoader.loadCss(
+                "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap'https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css"
+            )
+            SPComponentLoader.loadCss( siteUrl + '/CustomStyleLibrary/BootstrapAndJS/css/Style.css');
+
+---------------------------------------
+const loadCSS = async () => {
+             SPComponentLoader.loadCss(
+                "https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+            );
+             SPComponentLoader.loadCss(
+                "https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+            );
+             SPComponentLoader.loadCss(
+                "https://f1-as.readspeaker.com/script/6427/ReadSpeaker.Styles.css?v=2.5.16.6672"
+            );  
+             SPComponentLoader.loadCss(
+                "https://cdn.jsdelivr.net/npm/addsearch-search-ui@0.5/dist/addsearch-search-ui.min.css"
+            );
+             SPComponentLoader.loadCss(
+                "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"
+            );
+
+            //UAT GTM
+            if (siteUrl.indexOf('login.amaf.ae') != -1) {
+                await SPComponentLoader.loadScript('https://www.googletagmanager.com/gtag/js?id=GTM-M8QDBXQ');
+            }
+
+            //Production GTM
+            await SPComponentLoader.loadScript("https://www.googletagmanager.com/gtag/js?id=GTM-M9WNXTH");
+        };
+        
+        if (loadPage) {
+            await loadCSS();
+        }
+--------------------------------------------------------------------------
+
+// var headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+    // for (var i = 0; i < headings.length; i++) {
+    //     var head = headings[i];
+    //     if (head.innerHTML.trim() === "") {
+    //         await Promise.resolve(head.textContent = "Heading");
+    //     }}
+
+//     const menuitems = document.querySelectorAll('[role="menuitem"]');
+//     for (let i = 0; i < menuitems.length; i++) {
+//     const menuitem = menuitems[i];
+//     const parent = menuitem.parentElement;
+//     if (!parent || (parent.getAttribute('role') !== 'menu' && parent.getAttribute('role') !== 'menubar')) {
+//     menuitem.removeAttribute('role');
+//    }
+//  }
+-------------------------------------------------------------------------
+const jsFiles = [
+            // 'https://04.gov.ae/_nuxt/afcba1d.js',
+            // 'https://04.gov.ae/_nuxt/6f4e4fe.js',
+            // 'https://04.gov.ae/_nuxt/a59ded7.js',
+            // 'https://04.gov.ae/_nuxt/3b485f8.js',
+            // 'https://04.gov.ae/_nuxt/376e064.js',
+            // 'https://04.gov.ae/_nuxt/8aebe6e.js',
+            // 'https://04.gov.ae/_nuxt/90bbeaf.js',
+            // 'https://04.gov.ae/_nuxt/0779d1d.js',
+            // 'https://04.gov.ae/_nuxt/311b373.js',
+          ];
+        
+          // LiveChat JavaScript file URLs
+          const liveChatJsFiles = [
+            // 'https://cdn.livechatinc.com/tracking.js',
+            // 'https://cdn.livechatinc.com/widget/static/js/1.34d29692.chunk.js',
+            // 'https://cdn.livechatinc.com/widget/static/js/0.560086b6.chunk.js',
+            // 'https://cdn.livechatinc.com/widget/static/js/iframe.d3a7aeaa.chunk.js',
+          ];
+        
+          // Font file URLs
+          const fontFiles = [
+            // 'https://www.awqafdubai.gov.ae/CustomStyleLibrary/BootstrapAndJS/fonts/Dubai-Regular.woff',
+            // 'https://www.awqafdubai.gov.ae/_layouts/15/next/fabric/icons/fabric-icons-1-8143b877.woff',
+            // 'https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-regular.woff2',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/30d56ab5-7c8f-4e59-b439-5075ff5162fd/slick_b7c9e1e479de3b53f1e4e30ebac2403a.woff',
+            // 'https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-light.woff2',
+            // 'https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-bold.woff2',
+            // 'https://www.awqafdubai.gov.ae/CustomStyleLibrary/BootstrapAndJS/fonts/Dubai-Bold.woff',
+            // 'https://www.awqafdubai.gov.ae/CustomStyleLibrary/BootstrapAndJS/fonts/Dubai-Medium.woff',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/d979d01c-82d5-46c1-b16d-6714577877c4/header-application-customizer_153b6e6b4db4c68d8d737dee840e83a9.js',
+            // 'https://www.awqafdubai.gov.ae/_layouts/15/next/spclient/en-us/sp-pages-assembly.js',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/30d56ab5-7c8f-4e59-b439-5075ff5162fd/news-section-home-page-web-part_bf49022122aa346e5428d248b7328891.js',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/d979d01c-82d5-46c1-b16d-6714577877c4/header-application-customizer_ca5700c613d12471f8370c21676066fa.js',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/30d56ab5-7c8f-4e59-b439-5075ff5162fd/projects-web-part_01e6bc1ec4d701772a69e0885661bfc1.js',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/30d56ab5-7c8f-4e59-b439-5075ff5162fd/footer-bottom-web-part_09558eb51a9fa35f4db9fa453ced6350.js',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/30d56ab5-7c8f-4e59-b439-5075ff5162fd/news-section-home-page-web-part_bf49022122aa346e5428d248b7328891.js',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/30d56ab5-7c8f-4e59-b439-5075ff5162fd/amaf-services-web-part_04a375452e6504c27c6602f1a06eafd0.js',
+            // 'https://www.awqafdubai.gov.ae/_layouts/15/next/spclient/en-us/sp-pages-assembly.js?uniqueId=2g4QD',
+            // 'https://www.awqafdubai.gov.ae/sites/Apps/ClientSideAssets/30d56ab5-7c8f-4e59-b439-5075ff5162fd/counter-web-part_aed17962bd42c9419260dc8f8e635ebf.js',
+          ];
+
+          const allurls = [...jsFiles, ...liveChatJsFiles, ...fontFiles]
+          allurls.map((fileUrl) => SPComponentLoader.loadScript(fileUrl));
+          if(allurls){
+            console.log("Successfully Loaded")
+          }
+------------------------------------------
+searchBoxContainer_666a5632
+---------------------------------------------
+ <div>
+                {this.state.servicesState.map((val, key) => {
+                  return(
+                    <div className='services-cards' style={{ border: '2px solid #ddd',borderRadius: '12px',overflow: 'hidden', margin: '20px',height: '120px', width: '220px',boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',}}>
+                      <div className='container'>
+                        <img src={val.Image.Url} alt={"Main content of " + val.Title} />
+                        <h1 title='' className='service-title' style={{fontSize: '20px', fontWeight: 'bold', marginBottom: '8px',}}>{(this.state.Language == 'English')? val.Title : val.Title_ar } </h1>
+                        <p title='' className='service-desc' style={{fontSize: '16px'}}>{(this.state.Language === 'English')? val.Description.En : val.Description_Ar } </p>
+                      </div>
+                    </div>
+                  )
+                })}
+             </div>
+--------------------------------------------------
+
+Title_Ar
+Links Navigation
+Sticky-header -> Home link
+
+
+This AWS Account have been created and accessed through an Anonymous person, 
+Created the EC2 instance, 
+Added my details
+Credit card links through this account are unknown.
+
+
+
+This AWS account its not been created by me, 
+
+This query for your attention that this account belongs to my details and was not maintained by me, recently I came to know through a personal email that someone created the EC2 instance and started it, and some spam is going around with my details in AWS Web services, so I am not aware of these actions admitted in this account, and some anonymous user credit card also linked in my account,  so could you please make an enquire and terminate this account and reverse the payment which raised on this account.
+
+ I am writing to bring to your attention some concerning activity on my AWS account, which I recently became aware of. It appears that an EC2 instance has been created and started on my account without my knowledge or authorization. Additionally, there is evidence of spam activity associated with my account details.
+
+Furthermore, I discovered that an anonymous user's credit card has been linked to my account, which is deeply troubling as I have not authorized such action.
+
+Given these circumstances, I urgently request your assistance in investigating this matter thoroughly. I kindly ask that you terminate this account immediately and reverse any payments associated with it.
+
+Your prompt attention to this issue is greatly appreciated. Please feel free to contact me if any further information is required.
+
+
+
+ I am writing to bring to your attention some concerning activity on my AWS account 484271405459, which I recently became aware of. It appears that an EC2 instance has been created and started on my account without my knowledge or authorization. Additionally, there is evidence of spam activity associated with my account details.
+
+Furthermore, I discovered that an anonymous user's credit card has been linked to my account, which is deeply troubling as I have not authorized such action.
+
+Given these circumstances, I urgently request your assistance in investigating this matter thoroughly. I kindly ask that you terminate this account immediately and reverse any payments associated with it.
+
+Your prompt attention to this issue is greatly appreciated. Please feel free to contact me if any further information is required.
+
+
+
+
+
+
+
+
+
